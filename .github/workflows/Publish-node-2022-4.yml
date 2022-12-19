@@ -1,0 +1,167 @@
+# github.com/vpei/Free-Node-Merge
+# Description: Automatically Build SS/SSR/VMESS for Clash || V2ray
+# Cron: min (0 - 59) / hour (0 - 23) / day of month (1 - 31) / month (1 - 12) / day of week (0 - 6)(Sunday - Saturday)
+#========================================================================================================================
+
+name: Publish-Node-To-Clash-2022-4
+
+# Controls when the action will run. 
+on:
+  push:
+    branches: [ main ]
+  schedule:
+    - cron: '0 */1 * * *'
+  workflow_dispatch:
+
+env:
+  DELETE_RELEASE: true
+  DELETE_ARTIFACTS: true
+  KEEP_DAY: 1
+  KEEP_MININUM_RUNS: 5
+  KEEP_MININUM_RELEASE: 10
+
+jobs:
+  Build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 'Set System Timezone'
+        run: 
+          sudo timedatectl set-timezone Asia/Shanghai
+
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: 'Set up Python'
+        uses: actions/setup-python@v1
+        with:
+           python-version: 3.9
+
+      - name: 'Install requirements'
+        run: |
+          #pip install requests
+          #python -m pip install -U wheel
+          #pip install qqwry-py3
+          sudo -E apt-get -qq update
+          sudo -E apt-get -qq install inetutils-ping
+          pip install -r ./res/requirements.txt
+
+      - name: 'Update resfile from ipfs'
+        id: init
+        env:
+          #RESURL = 'https://ipfs.io/ipns/k2k4r8kms1l1k3wljk4o8eopnb2dltfvh8pypr0zkeyjunyagft3aqvs/'
+          RESURL: ${{ secrets.RESURL }}
+        run: |
+          python main.py init
+          #echo "::set-output name=status::success"
+          echo "status=success" >> $GITHUB_OUTPUT
+          #echo "::set-output name={name}::{value}"
+          #echo "{name}={value}" >> $GITHUB_OUTPUT
+
+      - name: 'merge expire node from url'
+        id: expire
+        env:
+          RESURL: ${{ secrets.RESURL }}
+        if: steps.init.outputs.status == 'success' && !cancelled()
+        run: |
+          python main.py expire
+          #echo "::set-output name=status::success"
+          echo "status=success" >> $GITHUB_OUTPUT
+
+      - name: 'Update and merge node from url'
+        id: update
+        env:
+          RESURL: ${{ secrets.RESURL }}
+        if: steps.expire.outputs.status == 'success' && !cancelled()
+        run: |
+          python main.py update
+          #echo "::set-output name=status::success"
+          echo "status=success" >> $GITHUB_OUTPUT
+
+      - name: 'Update node ip-address info to node.txt'
+        id: ipdomain
+        env:
+          RESURL: ${{ secrets.RESURL }}
+        run: |
+          python main.py optnode
+          echo "status=success" >> $GITHUB_OUTPUT
+
+      - name: 'Update allclash from node.txt'
+        id: allclash
+        env:
+          RESURL: ${{ secrets.RESURL }}
+        run: |
+          python main.py allclash
+          echo "status=success" >> $GITHUB_OUTPUT
+
+      - name: 'Compare new file with old file MD5'
+        id: diff
+        run: |
+          file1=./res/node.txt
+          file2=./o/node.txt
+          #dataline1=$(< $file1)
+          dataline1=$(md5sum $file1|cut -d ' ' -f1)
+          echo $dataline1
+          #dataline2=$(< $file2)
+          dataline2=$(md5sum $file2|cut -d ' ' -f1)
+          echo $dataline2
+          if [ "$dataline1" == "$dataline2" ];then
+            rm $file1
+            echo "Both file are same"
+            echo "status=noupdate" >> $GITHUB_OUTPUT
+          else
+            mv $file1 $file2
+            echo "Both file are different"
+            echo "status=success" >> $GITHUB_OUTPUT
+          fi
+
+      - name: 'Send telegram message on push'
+        env:
+          TELEGRAM_TO: ${{ secrets.TELEGRAM_TO }}
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+        uses: appleboy/telegram-action@master
+        if: steps.diff.outputs.status == 'success' && env.TELEGRAM_TO != '' && env.TELEGRAM_TOKEN != '' && !cancelled()
+        with:
+          to: ${{ secrets.TELEGRAM_TO }}
+          token: ${{ secrets.TELEGRAM_TOKEN }}
+          message: |
+             Mixed Nodes: http://185.177.124.24:8080/ipns/k51qzi5uqu5dh78dgxj9xt0od8sk97bxdnr84474rctjuln517hnl3v937di61/
+
+      - name: 'Commit files first'
+        if: steps.diff.outputs.status == 'success' && !cancelled()
+        run: |
+          rm -rf ./cls/__pycache__
+          #rm -rf ./ip/__pycache__
+          git config --global user.email actions@github.com
+          git config --global user.name "GitHub Actions"
+          git pull
+          git add .
+          git commit -m "Automatic upgrade by robot at $(date +"%Y.%m.%d.%H%M")" -a
+
+      - name: 'Push changes first'
+        uses: ad-m/github-push-action@master
+        if: steps.diff.outputs.status == 'success' && !cancelled()
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main
+          #branch: ${{ github.ref }}
+
+      - name: 'Delete older workflow runs and artifacts new'
+        uses: Mattraks/delete-workflow-runs@main
+        if: env.DELETE_ARTIFACTS == 'true'
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          repository: ${{ github.repository }}
+          retain_days: ${{ env.KEEP_DAY }}
+          keep_minimum_runs: ${{ env.KEEP_MININUM_RUNS }}
+
+      - name: 'Send telegram message on push'
+        env:
+          TELEGRAM_TO: ${{ secrets.TELEGRAM_TO }}
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+        uses: appleboy/telegram-action@master
+        if: steps.publish.outputs.status == 'success' && env.TELEGRAM_TO != '' && env.TELEGRAM_TOKEN != '' && !cancelled()
+        with:
+          to: ${{ secrets.TELEGRAM_TO }}
+          token: ${{ secrets.TELEGRAM_TOKEN }}
+          message: |
+             Publish files To ipfs network is finished.

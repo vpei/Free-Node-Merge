@@ -1,0 +1,291 @@
+# github.com/vpei/Free-Node-Merge
+# Description: Automatically Build SSR for OpenWrt
+# Cron: min (0 - 59) / hour (0 - 23) / day of month (1 - 31) / month (1 - 12) / day of week (0 - 6)(Sunday - Saturday)
+# Source code repository: https://github.com/openwrt/openwrt / Branch: master
+#========================================================================================================================
+
+name: Publish-Node-To-Ipfs-2022
+
+# Controls when the action will run. 
+on:
+  push:
+    branches: [ main ]
+  schedule:
+    - cron: '0 */2 * * *'
+  workflow_dispatch:
+
+env:
+  DELETE_RELEASE: true
+  DELETE_ARTIFACTS: true
+  KEEP_DAY: 1
+  KEEP_MININUM_RUNS: 10
+  KEEP_MININUM_RELEASE: 10
+
+jobs:
+  Build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 'Set System Timezone'
+        run: 
+          sudo timedatectl set-timezone Asia/Shanghai
+
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: 'Set up Python'
+        uses: actions/setup-python@v1
+        with:
+           python-version: 3.7
+
+      - name: 'Install requirements'
+        run: |
+          #pip install requests
+          #python -m pip install -U wheel
+          #pip install qqwry-py3
+          sudo -E apt-get -qq update
+          sudo -E apt-get -qq install inetutils-ping
+          pip install -r ./res/requirements.txt
+
+      - name: 'Sync resfile from ipfs'
+        id: init
+        env:
+          #RESURL = 'https://cf-ipfs.com/ipns/k2k4r8n10q07nqe02zysssxw1b9qboab0dd3ooljd32i9ro3edry6hv6/'
+          RESURL: ${{ secrets.RESURL }}
+        run: |
+          python main.py init
+          echo "::set-output name=status::success"
+
+      - name: 'Update and merge node from url'
+        id: update
+        env:
+          RESURL: ${{ secrets.RESURL }}
+        if: steps.init.outputs.status == 'success' && !cancelled()
+        run: |
+          python main.py update
+          echo "::set-output name=status::success"
+
+      - name: 'Update node ip-address info'
+        id: ipdomain
+        env:
+          RESURL: ${{ secrets.RESURL }}
+        run: |
+          python main.py optnode
+          echo "::set-output name=status::success"
+
+      - name: 'Compare new file with old file MD5'
+        id: diff
+        run: |
+          file1=./res/vpei-new.txt
+          file2=./res/node-0.txt
+          #dataline1=$(< $file1)
+          dataline1=$(md5sum $file1|cut -d ' ' -f1)
+          echo $dataline1
+          #dataline2=$(< $file2)
+          dataline2=$(md5sum $file2|cut -d ' ' -f1)
+          echo $dataline2
+          if [ "$dataline1" == "$dataline2" ];then
+            rm $file1
+            echo "Both file are same"
+            echo "::set-output name=status::noupdate"
+          else
+            mv $file1 $file2
+            echo "Both file are different"
+            echo "::set-output name=status::success"
+          fi
+
+      - name: 'Send telegram message on push'
+        env:
+          TELEGRAM_TO: ${{ secrets.TELEGRAM_TO }}
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+        uses: appleboy/telegram-action@master
+        if: steps.diff.outputs.status == 'success' && env.TELEGRAM_TO != '' && env.TELEGRAM_TOKEN != '' && !cancelled()
+        with:
+          to: ${{ secrets.TELEGRAM_TO }}
+          token: ${{ secrets.TELEGRAM_TOKEN }}
+          message: |
+             Mixed Nodes-1: http://185.177.124.24:8080/ipns/k51qzi5uqu5dh78dgxj9xt0od8sk97bxdnr84474rctjuln517hnl3v937di61/
+
+             Mixed Nodes-2: https://gateway.ipfs.io/ipns/k51qzi5uqu5dh78dgxj9xt0od8sk97bxdnr84474rctjuln517hnl3v937di61/
+
+      - name: 'Commit files first'
+        if: steps.diff.outputs.status == 'success' && !cancelled()
+        run: |
+          rm -rf ./cls/__pycache__
+          #rm -rf ./ip/__pycache__
+          git config --global user.email actions@github.com
+          git config --global user.name "GitHub Actions"
+          git pull
+          git add .
+          git commit -m "Automatic upgrade by robot at $(date +"%Y.%m.%d.%H%M")" -a
+
+      - name: 'Push changes first'
+        uses: ad-m/github-push-action@master
+        if: steps.diff.outputs.status == 'success' && !cancelled()
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main
+          #branch: ${{ github.ref }}
+
+      - name: 'Upload Files To Ipfs Network'
+        id: publish
+        env:
+          PEERID: ${{ secrets.PEERID }}
+          PRIVKEY: ${{ secrets.PRIVKEY }}
+          CID: cid
+        if: steps.ipdomain.outputs.status == 'success' && env.PEERID != '' && env.PRIVKEY != ''
+        run: |
+          echo 下载软件客户端，同步至IPFS网络，取消下载，在发布ipfs时直接添加CID
+          # python main.py soft
+
+          #git clone https://github.com/letseeqiji/oneinstall.git
+          #cd oneinstall/golang
+          #sh goinstall.sh
+          go version
+          #git clone https://github.com/ipfs/go-ipfs.git
+          #cd go-ipfs
+          #make install
+          # wget http://dweb.link/ipfs/QmNtGe5WSnQA4chbxZcDVCVPZDRNMtrjYmLYVW5pLBfvvk/go-ipfs/ipfs -O ./ipfs/ipfs
+          chmod 7777 ./ipfs/ipfs
+          #wget http://dweb.link/ipfs/QmNtGe5WSnQA4chbxZcDVCVPZDRNMtrjYmLYVW5pLBfvvk/go-ipfs/install.sh -O install.sh
+          chmod 7777 ./ipfs/install.sh
+          sh ./ipfs/install.sh
+          #ipfs init
+          mkdir /home/runner/.ipfs
+          cp -r ./ipfs/config/* /home/runner/.ipfs
+          sed -i 's/vpeiPEERID/${{ secrets.PEERID }}/g' /home/runner/.ipfs/config
+          sed -i 's/vpeiPRIVKEY/${{ env.PRIVKEY }}/g' /home/runner/.ipfs/config
+          # cp -r /home/runner/.ipfs config
+          # cp -f /home/runner/.ipfs/config ./config
+          # cd /home/runner/.ipfs
+          # ls
+
+          #file1=./ipfs/tmp/001.out
+          # 说明：nohup加在一个命令的最前面，表示不挂断的运行命令
+          # -u 表示实时输出到.out
+          # &加在一个命令的最后面，表示这个命令放在后台执行
+          # nohup ipfs add -r ./out >$file1 &
+          # sleep 5
+          # dataline1=$(< $file1)
+          # echo $dataline1
+
+          ipfs id
+          dataline1=$(ipfs add -r ./out)
+          echo $dataline1
+
+          echo 获取最后50个字符（46 + 4），数字50需要根据文件发布的目录调整./out，目录长度增长，50数字增加。
+          CID=${dataline1: -50}
+          echo $CID
+          echo
+          echo 删除空格后所有
+          CID=${CID% *}
+          echo ID:$CID
+
+          ipfs id
+          echo 将文件夹CID改名
+          ipfs files cp /ipfs/$CID /clash
+
+          echo 运行软件客户端
+          file1=./ipfs/tmp/002.out
+          # nohup ipfs daemon >$file1 &
+          nohup ipfs daemon >/dev/null 2>&1 &
+          sleep 50
+          #echo 下载缓存
+          #nohup sudo wget http://127.0.0.1:8080/ipfs/Qmczp7Sp6bsia8f6kxdMRvzqHKzrQM6NMYec9RfQJ3ksnq/ -O $file1 >$file1 &
+          
+          # echo 将软件文件夹CID添加到发布文件夹
+          #sleep 30
+          #ipfs files cp /ipfs/Qmczp7Sp6bsia8f6kxdMRvzqHKzrQM6NMYec9RfQJ3ksnq /clash/soft
+          #sleep 30
+          # echo 重新获取CID-1
+          #dataline1=$(ipfs files stat "/clash" )
+          #echo $dataline1
+          # echo 重新获取CID-2
+          #CID=${dataline1:0:46}
+          echo ID:$CID
+
+          sleep 5
+          # echo 对发布文件夹的新CID进行远程固定
+          # curl -X POST http://116.207.131.38:5001/api/v0/pin/add?arg=/ipfs/Qmczp7Sp6bsia8f6kxdMRvzqHKzrQM6NMYec9RfQJ3ksnq
+          # curl -X POST https://ipfs.infura.io:5001/api/v0/pin/add?arg=/ipfs/$CID
+          # curl -X POST http://122.9.166.5:5001/api/v0/pin/add?arg=/ipfs/Qmczp7Sp6bsia8f6kxdMRvzqHKzrQM6NMYec9RfQJ3ksnq
+          echo 对发布文件夹的新CID进行本地固定
+          ipfs pin add $CID
+
+          # 对发布的文件进行加载, CID从001.out文件获取或直接传递
+          # nohup sudo wget http://127.0.0.1:8080/ipfs/$CID/ -O $file1 >$file1 &
+
+          sleep 30
+          echo 对网络文件进行循环加载，提高IPFS发布成功率
+          python ./ipfs.py ipfs $CID
+
+          # echo 退出ipfs软件 ipfs #kill ipfs
+          # ipfs shutdown
+          # sleep 30
+          # echo 显示所有进程
+          # ps -A
+          echo 离线发布ipfs name publish /ipfs/$CID --allow-offline=true --lifetime=24h
+          # ipfs name publish /ipfs/$CID --allow-offline=true --lifetime=24h
+          ipfs name publish /ipfs/$CID --lifetime=24h
+          
+          sleep 3
+          # echo 后台运行ipfs软件
+          # file1=./ipfs/tmp/003.out
+          # nohup ipfs daemon >$file1 &
+          ipfs name publish /ipfs/$CID --lifetime=24h
+
+          sleep 30
+          echo ipfs软件已运行
+          python ./ipfs.py ipns
+
+          # sudo rm -rf ./install1 ./install2 ./install3
+          # sudo cp -f ./res/README.md ./README.md
+          # 需要安装sed 软件
+          # sudo sed -i 's/ipfs_auto_url/${{ secrets.RESURL }}code.txt\n\n${{ secrets.RESURL }}clash\n\n${{ secrets.RESURL }}openclash/g' ./README.md
+          
+          dataline1=$(jobs -l|grep ipfs| grep -v grep | awk '{print $2}')
+          kill -9 $dataline1
+
+          sleep 10
+          
+          echo "::set-output name=status::success"
+
+      - name: 'Commit files Second for readMe file'
+        if: steps.publish.outputs.status == 'success'
+        run: |
+          rm -rf ./cls/__pycache__
+          #rm -rf ./ip/__pycache__
+          rm -rf ./out/soft
+          git config --global user.email actions@github.com
+          git config --global user.name "GitHub Actions"
+          git pull
+          git add .
+          git commit -m "Automatic upgrade by robot at $(date +"%Y.%m.%d.%H%M")" -a
+
+      - name: 'Push changes Second for readMe file'
+        uses: ad-m/github-push-action@master
+        if: steps.publish.outputs.status == 'success' && !cancelled()
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main
+          #branch: ${{ github.ref }}
+
+      - name: 'Delete older workflow runs and artifacts new'
+        uses: Mattraks/delete-workflow-runs@main
+        if: env.DELETE_ARTIFACTS == 'true'
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          repository: ${{ github.repository }}
+          retain_days: ${{ env.KEEP_DAY }}
+          keep_minimum_runs: ${{ env.KEEP_MININUM_RUNS }}
+
+      - name: 'Send telegram message on push'
+        env:
+          TELEGRAM_TO: ${{ secrets.TELEGRAM_TO }}
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+        uses: appleboy/telegram-action@master
+        if: steps.publish.outputs.status == 'success' && env.TELEGRAM_TO != '' && env.TELEGRAM_TOKEN != '' && !cancelled()
+        with:
+          to: ${{ secrets.TELEGRAM_TO }}
+          token: ${{ secrets.TELEGRAM_TOKEN }}
+          message: |
+             Publish files To ipfs network is finished.

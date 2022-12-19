@@ -1,0 +1,149 @@
+---
+allow-lan: true
+external-controller: 0.0.0.0:9090
+secret: '123456'
+log-level: info
+mode: rule
+# port: 7890
+# socks-port: 7891
+mixed-port: 7890
+redir-port: 7892
+tproxy-port: 7895
+bind-address: '*'
+ipv6: false
+
+hosts:
+  services.googleapis.cn: 216.58.200.67
+  www.google.cn: 216.58.200.67
+
+profile:
+  tracing: true
+
+proxies:
+clash-url.txt
+
+proxy-groups:
+- name: '🚀 节点选择'
+  type: select
+  proxies:
+  - '♻️ 自动选择'
+  - '📲 电报信息'
+  - '🎯 全球直连'
+clash-name.txt
+- name: '♻️ 自动选择'
+  type: url-test
+  url: http://www.gstatic.com/generate_204
+  interval: 120
+  tolerance: 50
+  proxies:
+clash-name.txt
+- name: '🌍 国外媒体'
+  type: select
+  proxies:
+  - '🚀 节点选择'
+  - '♻️ 自动选择'
+  - '🎯 全球直连'
+clash-name.txt
+- name: '🌏 国内媒体'
+  type: select
+  proxies:
+  - '🎯 全球直连'
+  - '🚀 节点选择'
+clash-name.txt
+- name: 'Ⓜ️ 微软服务'
+  type: select
+  proxies:
+  - '🚀 节点选择'
+  - '🎯 全球直连'
+clash-name.txt
+- name: 'Ⓜ️ 微软云盘'
+  type: select
+  proxies:
+  - '🚀 节点选择'
+  - '🎯 全球直连'
+clash-name.txt
+- name: '🎮 游戏平台'
+  type: select
+  proxies:
+  - '🚀 节点选择'
+  - '🎯 全球直连'
+clash-name.txt
+- name: '🎶 网易音乐'
+  type: select
+  proxies:
+  - '🚀 节点选择'
+  - '🎯 全球直连'
+clash-name.txt
+- name: '📲 电报信息'
+  type: load-balance
+  url: http://www.gstatic.com/generate_204
+  interval: 2
+  strategy: round-robin
+  # tolerance: 10
+  proxies:
+tele-name.txt
+- name: '🍎 苹果服务'
+  type: select
+  proxies:
+  - '🚀 节点选择'
+  - '🎯 全球直连'
+  - '♻️ 自动选择'
+clash-name.txt
+- name: '📢 谷歌FCM'
+  type: select
+  proxies:
+  - '🚀 节点选择'
+  - '♻️ 自动选择'
+  - DIRECT
+clash-name.txt
+- name: '📹 油管视频'
+  type: select
+  proxies:
+  - '🚀 节点选择'
+  - '♻️ 自动选择'
+  - DIRECT
+clash-name.txt
+- name: '🎥 奈飞视频'
+  type: select
+  proxies:
+  - '🚀 节点选择'
+  - '♻️ 自动选择'
+  - DIRECT
+clash-name.txt
+- name: '📺 巴哈姆特'
+  type: select
+  proxies:
+  - '🚀 节点选择'
+  - '♻️ 自动选择'
+  - DIRECT
+clash-name.txt
+- name: '📺 哔哩哔哩'
+  type: select
+  proxies:
+  - '🚀 节点选择'
+  - '♻️ 自动选择'
+  - DIRECT
+clash-name.txt
+- name: '🎯 全球直连'
+  type: select
+  proxies:
+  - DIRECT
+- name: '🍃 应用净化'
+  type: select
+  proxies:
+  - REJECT
+  - DIRECT
+- name: '🛑 全球拦截'
+  type: select
+  proxies:
+  - REJECT
+  - DIRECT
+- name: '🐟 漏网之鱼'
+  type: select
+  proxies:
+  - '🚀 节点选择'
+  - '🎯 全球直连'
+  - '♻️ 自动选择'
+clash-name.txt
+
+clash-2.txt
