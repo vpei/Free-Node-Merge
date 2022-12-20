@@ -10642,3 +10642,6 @@ zgdx-vds-01.plnode.xyz:30600:7bb78d3e-c1ce-430d-b0ab-cd85fabd09c5
 zxcvbn@49.212.193.129:443:18844
 zxcvbn@133.167.124.195:443:18844
 dl-sg2.efyunpan.com:443:0309574c-41ea-4b07-b2f0-de3fc2622eef
+dl-tw2.efyunpan.com:443:0309574c-41ea-4b07-b2f0-de3fc2622eef
+zxcvbn@49.212.231.77:443:18844
+lv2iwahxwawhooiixzawxc.hjspyto.cn:12344:76149cc1-6ec3-3610-ad44-bca126fbdba4
