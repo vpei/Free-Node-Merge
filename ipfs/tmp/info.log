@@ -159,3 +159,9 @@ cipher:dummy
 
 [2022-12-21 14:29:25] Main-Line-799-allcipher.find(cipher.upper())-j:ssr://MzcuNTkuMjMzLjEwNzo0NDM6b3JpZ2luOmR1bW15Omh0dHBfc2ltcGxlOmJXVm9jblp3Ymc9PS8/b2Jmc3BhcmFtPSZwcm90b3BhcmFtPSZyZW1hcmtzPTVyT1Y1WnU5WHpFeE1USXdNekEmZ3JvdXA9
 cipher:dummy
+
+[2022-12-21 15:30:48] Main-Line-799-allcipher.find(cipher.upper())-j:ssr://MzcuNTkuMjMzLjEwNzo0NDM6b3JpZ2luOmR1bW15Omh0dHBfc2ltcGxlOmJXVm9jblp3Ymc9PS8/b2Jmc3BhcmFtPSZwcm90b3BhcmFtPSZyZW1hcmtzPTVyT1Y1WnU5WHpFeE1USXdNekEmZ3JvdXA9
+cipher:dummy
+
+[2022-12-21 15:30:58] Main-Line-799-allcipher.find(cipher.upper())-j:ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206T1RGaE1HVTFZalJtT1ROa1lUSmlaakl6TVRoall6QTVORGhpWW1JNE1XWT06TWtZd09UUTRORFV0UlRKQ1JDMUZRa1kzTFVSRlFqY3RPVGsxT1RreU5ETT1ANzguMTUzLjEzMC4xMzozODc0MA==
+cipher:2022-blake3-aes-256-gcm
