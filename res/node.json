@@ -33,7 +33,7 @@
 {"uptime": "2022-12-14 00:16:42", "type": "mixed", "upmd5": "7e27940ed9de8228fa5765b122e9bb66", "upurl": "https://raw.githubusercontent.com/Leon406/SubCrawler/main/sub/share/private/tr", "size": 116464}
 {"uptime": "2022-12-14 00:16:42", "type": "mixed", "upmd5": "bcece3f207d7be656130d59051cd8442", "upurl": "https://raw.githubusercontent.com/Leon406/SubCrawler/main/sub/share/private/ssr", "size": 58936}
 {"uptime": "2022-12-15 17:13:40", "type": "mixed", "upmd5": "095817a38ed53bf18222e4562038ba2b", "upurl": "https://jiang.netlify.com/", "size": 68624}
-{"uptime": "2022-12-20 10:24:42", "type": "clash", "upmd5": "2c022c97a01c972c75a4fd0c3d3071ac", "upurl": "https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/clash.yml", "size": 136584}
+{"uptime": "2022-12-21 10:18:55", "type": "clash", "upmd5": "6f1f6c5423ab4a07cdf7ce9b12210734", "upurl": "https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/clash.yml", "size": 128614}
 {"uptime": "2022-12-20 11:22:35", "type": "mixed", "upmd5": "31f3604407f80beebb227def13d014c1", "upurl": "https://raw.githubusercontent.com/Leon406/SubCrawler/main/sub/share/all", "size": 2166396}
 {"uptime": "2022-12-20 11:24:12", "type": "mixed", "upmd5": "4ea8c46f8a20dbaf70ae2e979aab1057", "upurl": "https://raw.githubusercontent.com/Leon406/SubCrawler/main/sub/share/available", "size": 1625402}
 {"uptime": "2022-12-20 11:24:17", "type": "mixed", "upmd5": "1f539f0b90327b9601a4a7531bb0e55e", "upurl": "https://raw.githubusercontent.com/Leon406/SubCrawler/main/sub/share/ss", "size": 30224}
@@ -46,12 +46,12 @@
 {"uptime": "2022-12-20 21:26:45", "type": "clash", "upmd5": "15675dc217b2bb006220eecccace0ead", "upurl": "https://raw.githubusercontent.com/Rokate/Proxy-Sub/main/clash/clash_trojan.yml", "size": 126894}
 {"uptime": "2022-12-20 21:26:46", "type": "clash", "upmd5": "4ca4dcb232990c91555fc6b3404a5a57", "upurl": "https://raw.githubusercontent.com/Rokate/Proxy-Sub/main/clash/clash_v2ray.yml", "size": 69228}
 {"uptime": "2022-12-21 00:28:46", "type": "clash", "upmd5": "f43e42cf6b5323effb0949ea69a22f40", "upurl": "https://sub.go4sharing.repl.co/sub.yaml", "size": 427392}
-{"uptime": "2022-12-21 03:22:44", "type": "clash", "upmd5": "cb07ad61e4e936363cccc795f4150bde", "upurl": "https://raw.githubusercontent.com/anaer/Sub/main/clash.yaml", "size": 396621}
-{"uptime": "2022-12-21 09:03:08", "type": "mixed", "upmd5": "219b301d090cff5afa00a372ded36d73", "upurl": "https://raw.githubusercontent.com/xiyaowong/freeFQ/main/v2ray", "size": 87000}
+{"uptime": "2022-12-21 10:19:00", "type": "clash", "upmd5": "48aa20b8e59d3cb5a9606d6a6a938fb4", "upurl": "https://raw.githubusercontent.com/anaer/Sub/main/clash.yaml", "size": 393369}
 {"uptime": "2022-12-21 09:03:08", "type": "mixed", "upmd5": "073882392079428e6cc609a2380e96a9", "upurl": "https://raw.githubusercontent.com/freefq/free/master/v2", "size": 21688}
-{"uptime": "2022-12-21 09:03:09", "type": "clash", "upmd5": "e37448eb1383d0ba36479d56d2c46cc0", "upurl": "https://raw.githubusercontent.com/learnhard-cn/free_proxy_ss/main/clash/clash.provider.yaml", "size": 5143}
-{"uptime": "2022-12-21 09:03:13", "type": "clash", "upmd5": "c5cdae8fd449e6848cba9c999d4d784a", "upurl": "http://www.linbaoz.com/clash/proxies", "size": 10788}
-{"uptime": "2022-12-21 09:03:13", "type": "mixed", "upmd5": "1dc51dfffb9892c91465e4b6ef1955fa", "upurl": "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub", "size": 2452}
+{"uptime": "2022-12-21 09:03:08", "type": "mixed", "upmd5": "219b301d090cff5afa00a372ded36d73", "upurl": "https://raw.githubusercontent.com/xiyaowong/freeFQ/main/v2ray", "size": 87000}
+{"uptime": "2022-12-21 10:19:08", "type": "clash", "upmd5": "12beeda1999ee9e38305f77f7a135279", "upurl": "https://raw.githubusercontent.com/learnhard-cn/free_proxy_ss/main/clash/clash.provider.yaml", "size": 4901}
+{"uptime": "2022-12-21 10:19:10", "type": "clash", "upmd5": "37406238ed620f94b41856e82efbf27c", "upurl": "http://www.linbaoz.com/clash/proxies", "size": 10784}
+{"uptime": "2022-12-21 10:19:10", "type": "mixed", "upmd5": "4c1aca71bfc2fea5b96bb7b7ac350a42", "upurl": "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub", "size": 3424}
 {"uptime": "2023-12-03 20:09:57", "type": "clash", "upmd5": "737b7816ca595d3afee9e703d30765db", "upurl": "http://122.225.207.101:8080/ipns/k2k4r8kms1l1k3wljk4o8eopnb2dltfvh8pypr0zkeyjunyagft3aqvs/vip.yaml", "size": 75475}
 {"uptime": "2023-12-03 22:14:46", "type": "mixed", "upmd5": "6300191dfe70c6b60b2c3da62f7340ca", "upurl": "http://122.225.207.101:8080/ipns/k2k4r8kms1l1k3wljk4o8eopnb2dltfvh8pypr0zkeyjunyagft3aqvs/vpn.txt", "size": 79460}
 {"uptime": "2023-12-19 16:19:37", "type": "mixed", "upmd5": "8fcd0c480b8e7130226d1ad92926b50a", "upurl": "http://122.225.207.101:8080/ipns/k2k4r8kms1l1k3wljk4o8eopnb2dltfvh8pypr0zkeyjunyagft3aqvs/index.html", "size": 61552}
