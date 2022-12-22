@@ -10685,3 +10685,11 @@ jp-tk-32.fuckjdieng.uk:50188:7175732d-dee5-4e38-91e1-886f95c2b470
 zxcvbn@160.16.153.50:443:18844
 zxcvbn@49.212.178.155:443:18844
 zxcvbn@160.16.153.188:443:18844
+zxcvbn@tk-tr-2.cats22.net:443:18844
+dl-hk3.efyunpan.com:443:82a241f7-d754-4b36-ac7c-2f83fffcada7
+dl-hk2.efyunpan.com:443:2138aa7d-ec92-4de3-8c66-2f60152a3e9d
+dl-tw2.efyunpan.com:443:2138aa7d-ec92-4de3-8c66-2f60152a3e9d
+bgroup.node5.t.nodelist-gfwairport1.download:50001:3eb7377b-2f80-4733-9b18-ef955363ea9e
+tk-tr-2.cats22.net:443:18844%40zxcvbn
+jp-tk-31.fuckjdieng.uk:50310:b1f911c9-d8e0-478f-add2-79aab59d9664
+zxcvbn@49.212.182.164:443:18844
