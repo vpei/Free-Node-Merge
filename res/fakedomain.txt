@@ -7756,3 +7756,9 @@ ussc.scsevers.cf:443:sharecentre
 mel12.yukiss.eu.org:18818:8a03bc28-2a33-42c4-be59-30464dbb9954
 dl-sg3.efyunpan.com:443:82a241f7-d754-4b36-ac7c-2f83fffcada7
 official.taipeicitygovernment.org.ua:8443:96983eb4-c8f1-316e-ab00-500014ed3d8b
+au1-3.nrojat.com:443:EJBsFzWnEgXZnmzHq8
+ru03.170203.xyz:34234:6bf1ae5e-a742-446c-a59d-c9e546a4e2df
+hkmax04.170203.xyz:45435:6bf1ae5e-a742-446c-a59d-c9e546a4e2df
+hkmax04.170203.xyz:45435:e129881e-36d4-44e2-b0f7-7676c1f97c63
+skcc31.yukiss.eu.org:10086:8a03bc28-2a33-42c4-be59-30464dbb9954
+uk2-full.privateip.net:443:908e3930-ffb7-4ce1-961d-fefdf6c0ebed
