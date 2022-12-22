@@ -10693,3 +10693,12 @@ bgroup.node5.t.nodelist-gfwairport1.download:50001:3eb7377b-2f80-4733-9b18-ef955
 tk-tr-2.cats22.net:443:18844%40zxcvbn
 jp-tk-31.fuckjdieng.uk:50310:b1f911c9-d8e0-478f-add2-79aab59d9664
 zxcvbn@49.212.182.164:443:18844
+zxcvbn@os14.cats22.net:443:18844
+tw01.170203.xyz:34234:04de7e2f-1c27-4dee-8e75-eb7b6b24c368
+dl-hk1.efyunpan.com:443:82a241f7-d754-4b36-ac7c-2f83fffcada7
+jp01.trojanyyds.xyz:443:afee60fc-f88b-4a20-b85b-8f63296e7ac0
+hk2.openssl3.com:15006:HKZmLDgP
+gb1-1.openssl3.com:60001:tune7jerky7HAYRICK
+dl-jp4.efyunpan.com:443:82a241f7-d754-4b36-ac7c-2f83fffcada7
+t2.teslacdn1.live:443:4331812b-92ff-47b5-9f32-78b5150e625f
+ir2.archnet.cyou:6393:8ce6f8a8-9aca-4029-994a-cedc1ba8292c
