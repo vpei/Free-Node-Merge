@@ -7744,3 +7744,5 @@ ingress-i2.iivvppnn.info:38106:79386685-16da-327c-9e14-aa6d702d86bc
 share.softbank.mjj-home.com:443:share.mjj-home.com
 vus2.0bad.com:443:927094d3-d678-4763-8591-e240d0bcae87
 zf.gaoyuanmonv.top:32414:ddc9c34f-a5a5-3861-95c4-3158647f0f6a
+tgunivstar.219.76.13.180.sslip.io:443:951ca91e-c27c-4b18-bf27-aecf16239524
+jp1.sanfen001.pics:443:66bee8fa-56a6-4108-92ec-d4a0900270cb
