@@ -7768,3 +7768,5 @@ ch12.yukiss.eu.org:18818:8a03bc28-2a33-42c4-be59-30464dbb9954
 dl-tw3.efyunpan.com:443:82a241f7-d754-4b36-ac7c-2f83fffcada7
 sg.liangyuandian.top:443:53f20cd4-b381-4a80-8059-7bcd484bbb52
 sg12.900513.xyz:10086:8a03bc28-2a33-42c4-be59-30464dbb9954
+dl-hk4.efyunpan.com:443:2138aa7d-ec92-4de3-8c66-2f60152a3e9d
+ir2.archnet.cyou:9999:8ce6f8a8-9aca-4029-994a-cedc1ba8292c
