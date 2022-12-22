@@ -7749,3 +7749,10 @@ jp1.sanfen001.pics:443:66bee8fa-56a6-4108-92ec-d4a0900270cb
 ee1-1.nrojat.com:443:EJBsFzWnEgXZnmzHq8
 skcc23.yukiss.eu.org:18818:8a03bc28-2a33-42c4-be59-30464dbb9954
 ru03.170203.xyz:34234:7ceffa5e-c148-426a-97b0-2182e1b95923
+dl-hk1.efyunpan.com:443:2138aa7d-ec92-4de3-8c66-2f60152a3e9d
+hk01.awcloud.top:443:280ed7e2-a804-4262-9e50-f7d1929bbc26
+oraukgo.flazewang.xyz:443:d47ec8f8-e3cb-4d54-b43e-ad19ba2efe7c
+ussc.scsevers.cf:443:sharecentre
+mel12.yukiss.eu.org:18818:8a03bc28-2a33-42c4-be59-30464dbb9954
+dl-sg3.efyunpan.com:443:82a241f7-d754-4b36-ac7c-2f83fffcada7
+official.taipeicitygovernment.org.ua:8443:96983eb4-c8f1-316e-ab00-500014ed3d8b
