@@ -9661,3 +9661,235 @@ onenode:vmess://eyJhZGQiOiAiOTQuMTc3LjguODciLCAiYWlkIjogMCwgImhvc3QiOiAiIiwgImlk
 
 [2022-12-23 19:09:34] SubConvert-Line-116-Exception: 'utf-8' codec can't decode byte 0xbe in position 276: invalid start byte
 onenode:vmess://eyJhZGQiOiAiOTQuMTc3LjguODciLCAiYWlkIjogMCwgImhvc3QiOiAiIiwgImlkIjogIjJGMDk0ODQ1LUUyQkQtRUJGNy1ERUI3LTk5NTk5MjQzNkZBRiIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAzODc0MywgInBzIjogImdpdGh1Yi5jb20vZnJlZWZxIC0gXHU3ZjU3XHU5YTZjXHU1YzNjXHU0ZTlhICAxMSIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9vmess://eyJ2IjogIjIiLCAicHMiOiAiZ2l0aHViLmNvbS9QYXdkcm9pZCAtIFx1NmIyN1x1NzZkZiAgNCIsICJhZGQiOiAiNDUuODAuMTExLjE2OSIsICJwb3J0IjogIjg4ODAiLCAidHlwZSI6ICJub25lIiwgImlkIjogImUzZGJhOTFmLWIzMWMtNDczYS04ZjE3LTkyZTFkZWRkYTM4ZiIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgImhvc3QiOiAiYzh3NnN0cGNlcGhrb216eS5nb25neWl5dW4uY2YiLCAidGxzIjogIiJ9
+
+
+[2022-12-23 20:27:30] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 28 (char 27)
+{"server":"192.168.0.0/16,"port":"10.0.0.0/8}
+
+[2022-12-23 20:27:30] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 24 (char 23)
+{"server":"10.0.0.0/8,"port":"172.16.0.0/12}
+
+[2022-12-23 20:27:30] SubConvert-Line-201-Exception:Unterminated string starting at: line 1 column 11 (char 10)
+{"server":"223.5.5.5}
+
+[2022-12-23 20:27:30] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 28 (char 27)
+{"server":"86.wowogg.cyou,"port":"52286,"uuid":"08103798-414e-32b6-8748-2507732d2c51,"tls":"false,"vmess-aead":"false,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2022-12-23 20:27:30] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 34 (char 33)
+{"server":"www.digitalocean.com,"port":"8080,"uuid":"59502b4c-6a17-4f65-a1cc-682f0179cec1,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/api/v3/download.getFile,"sni":"www.digitalocean.com,"ws-headers":"Host:ssrsub.v01.asuka.buzz,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2022-12-23 20:27:30] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 45 (char 44)
+{"server":"http.download.yunzhongzhuan.com,"port":"8080,"uuid":"59502b4c-6a17-4f65-a1cc-682f0179cec1,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/api/v3/download.getFile,"sni":"http.download.yunzhongzhuan.com,"ws-headers":"Host:ssrsub.v01.asuka.buzz,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2022-12-23 20:27:30] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 28 (char 27)
+{"server":"gg1.tanglu.xyz,"port":"8080,"uuid":"59502b4c-6a17-4f65-a1cc-682f0179cec1,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/api/v3/download.getFile,"sni":"gg1.tanglu.xyz,"ws-headers":"Host:ssrsub.v01.asuka.buzz,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2022-12-23 20:27:30] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 34 (char 33)
+{"server":"www.digitalocean.com,"port":"8080,"uuid":"59502b4c-6a17-4f65-a1cc-682f0179cec1,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/api/v3/download.getFile,"sni":"www.digitalocean.com,"ws-headers":"Host:ssrsub.v02.asuka.buzz,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2022-12-23 20:27:30] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 45 (char 44)
+{"server":"http.download.yunzhongzhuan.com,"port":"8080,"uuid":"59502b4c-6a17-4f65-a1cc-682f0179cec1,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/api/v3/download.getFile,"sni":"http.download.yunzhongzhuan.com,"ws-headers":"Host:ssrsub.v02.asuka.buzz,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2022-12-23 20:27:30] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 28 (char 27)
+{"server":"gg1.tanglu.xyz,"port":"8080,"uuid":"59502b4c-6a17-4f65-a1cc-682f0179cec1,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/api/v3/download.getFile,"sni":"gg1.tanglu.xyz,"ws-headers":"Host:ssrsub.v02.asuka.buzz,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2022-12-23 20:27:30] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 34 (char 33)
+{"server":"www.digitalocean.com,"port":"80,"uuid":"59502b4c-6a17-4f65-a1cc-682f0179cec1,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/api/v3/download.getFile,"sni":"www.digitalocean.com,"ws-headers":"Host:ssrsub.v03.asuka.buzz,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2022-12-23 20:27:30] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 45 (char 44)
+{"server":"http.download.yunzhongzhuan.com,"port":"80,"uuid":"59502b4c-6a17-4f65-a1cc-682f0179cec1,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/api/v3/download.getFile,"sni":"http.download.yunzhongzhuan.com,"ws-headers":"Host:ssrsub.v03.asuka.buzz,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2022-12-23 20:27:30] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 28 (char 27)
+{"server":"gg1.tanglu.xyz,"port":"80,"uuid":"59502b4c-6a17-4f65-a1cc-682f0179cec1,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/api/v3/download.getFile,"sni":"gg1.tanglu.xyz,"ws-headers":"Host:ssrsub.v03.asuka.buzz,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2022-12-23 20:27:30] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 27 (char 26)
+{"server":"45.80.111.169,"port":"8880,"uuid":"e3dba91f-b31c-473a-8f17-92e1dedda38f,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/,"sni":"45.80.111.169,"ws-headers":"Host:c8w6stpcephkomzy.gongyiyun.cf,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2022-12-23 20:27:30] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 28 (char 27)
+{"server":"45.136.244.181,"port":"80,"uuid":"a25881f3-967f-3265-bc7f-9e66857b016b,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/fr-unlimitxxx,"sni":"45.136.244.181,"ws-headers":"Host:45.136.244.181,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2022-12-23 20:27:30] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 28 (char 27)
+{"server":"203.30.189.190,"port":"443,"uuid":"56a2188b-2ab7-402c-b9b8-34847fdf0958,"tls":"true,"vmess-aead":"true,"ws":"true,"ws-path":"/5QNROSRV,"sni":"203.30.189.190,"ws-headers":"Host:oplg1.zhujicn2.com,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2022-12-23 20:27:30] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 25 (char 24)
+{"server":"94.177.8.87,"port":"39028,"uuid":"2F094845-E2BD-EBF7-DEB7-995992436FAF,"tls":"true,"vmess-aead":"true,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2022-12-23 20:27:30] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 27 (char 26)
+{"server":"172.67.199.34,"port":"443,"uuid":"8b6dd709-4d4e-4b92-f542-54a676efbfe4,"tls":"true,"vmess-aead":"true,"ws":"true,"ws-path":"/shares,"sni":"172.67.199.34,"ws-headers":"Host:la.awsbest.com,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2022-12-23 20:27:30] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 28 (char 27)
+{"server":"165.227.175.88,"port":"28164,"uuid":"eba8ccf5-5ab9-4b6b-de4b-83ab920c1005,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/,"sni":"165.227.175.88,"ws-headers":"Host:165.227.175.88,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2022-12-23 20:27:30] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 27 (char 26)
+{"server":"129.150.44.64,"port":"46075,"uuid":"da257e73-f02b-45ab-9916-7baf154c47a3,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/jhndsmlanj11223,"sni":"129.150.44.64,"ws-headers":"Host:129.150.44.64,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2022-12-23 20:27:30] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 36 (char 35)
+{"server":"vpnshop2.hoseeinbsd.ml,"port":"20259,"uuid":"dfe6fa2e-6ca9-4b29-e30a-77c7e30cd5fd,"tls":"true,"vmess-aead":"true,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2022-12-23 20:27:30] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 28 (char 27)
+{"server":"198.244.232.39,"port":"2096,"uuid":"df46384b-1ad5-40a6-812e-48d60fb80283,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/,"sni":"198.244.232.39,"ws-headers":"Host:198.244.232.39,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2022-12-23 20:27:30] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 27 (char 26)
+{"server":"do2.yyhm9.com,"port":"443,"uuid":"776352ac-0a91-3d71-8450-d3b3a2b43c73,"tls":"true,"vmess-aead":"true,"ws":"true,"ws-path":"/das212,"sni":"do2.yyhm9.com,"ws-headers":"Host:do2.yyhm9.com,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2022-12-23 20:27:30] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 27 (char 26)
+{"server":"51.79.173.222,"port":"443,"uuid":"b655be0e-4b1a-4e3e-b63f-22a928a6e808,"tls":"true,"vmess-aead":"true,"ws":"true,"ws-path":"/vmess,"sni":"51.79.173.222,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2022-12-23 20:27:30] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 26 (char 25)
+{"server":"203.24.108.8,"port":"443,"uuid":"40d496a6-ceeb-4096-baeb-4cc52b205621,"tls":"true,"vmess-aead":"true,"ws":"true,"ws-path":"/ECTCJ0DF,"sni":"203.24.108.8,"ws-headers":"Host:lg1.trump2023.us,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2022-12-23 20:27:30] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 28 (char 27)
+{"server":"165.227.175.88,"port":"28164,"uuid":"eba8ccf5-5ab9-4b6b-de4b-83ab920c1005,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/,"sni":"165.227.175.88,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2022-12-23 20:27:30] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 33 (char 32)
+{"server":"hk80.sanfen001.pics,"port":"80,"uuid":"a63b1080-1b4c-4c55-b073-aec6f5689d94,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/zh-cn/download,"sni":"hk80.sanfen001.pics,"ws-headers":"Host:a.189.cn,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2022-12-23 20:27:30] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 33 (char 32)
+{"server":"hk80.sanfen001.pics,"port":"80,"uuid":"73e0298a-5cb0-487e-81c9-2056b04c3864,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/zh-cn/download,"sni":"hk80.sanfen001.pics,"ws-headers":"Host:a.189.cn,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2022-12-23 20:27:30] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 27 (char 26)
+{"server":"219.76.13.180,"port":"443,"uuid":"5f64fa65-7b14-49c5-954d-aa15c6bfcacd,"tls":"true,"vmess-aead":"true,"ws":"true,"ws-path":"/dongtaiwang.com,"sni":"219.76.13.180,"ws-headers":"Host:clash6.ssr-free.xyz,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2022-12-23 20:27:30] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 26 (char 25)
+{"server":"68.183.83.94,"port":"59477,"uuid":"b8f6a71c-6925-4e84-fb93-6e54f8d98b25,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/,"sni":"68.183.83.94,"ws-headers":"Host:68.183.83.94,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2022-12-23 20:27:30] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 27 (char 26)
+{"server":"5.255.112.158,"port":"19182,"uuid":"8f11ba8c-a72b-47df-a783-2490205ff10f,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/,"sni":"5.255.112.158,"ws-headers":"Host:5.255.112.158,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2022-12-23 20:27:30] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 25 (char 24)
+{"server":"94.177.8.87,"port":"39028,"uuid":"2F094845-E2BD-EBF7-DEB7-995992436FAF,"tls":"true,"vmess-aead":"true,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2022-12-23 20:27:30] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 26 (char 25)
+{"server":"88.210.37.46,"port":"39028,"uuid":"2F094845-E2BD-EBF7-DEB7-995992436FAF,"tls":"true,"vmess-aead":"true,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2022-12-23 20:27:30] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 28 (char 27)
+{"server":"157.230.36.235,"port":"80,"uuid":"b484d576-b3e3-4ac5-b108-88a300dfe7e3,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/graphql,"sni":"157.230.36.235,"ws-headers":"Host:157.230.36.235,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2022-12-23 20:27:30] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 38 (char 37)
+{"server":"cf-lt.sharecentre.online,"port":"443,"uuid":"20e92881-5fb4-4b05-bc77-57929476dc69,"tls":"true,"vmess-aead":"true,"ws":"true,"ws-path":"/shirker,"sni":"cf-lt.sharecentre.online,"ws-headers":"Host:hk.sharecentre.online,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2022-12-23 20:27:30] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 28 (char 27)
+{"server":"v12a.toddns.tk,"port":"80,"uuid":"a25881f3-967f-3265-bc7f-9e66857b016b,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/nl-unlimitxxx,"sni":"v12a.toddns.tk,"ws-headers":"Host:v12a.toddns.tk,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2022-12-23 20:27:30] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 28 (char 27)
+{"server":"sg-lb.vhax.net,"port":"80,"uuid":"6fea1649-425b-4092-bf53-29792152c925,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/sshkit/Ertusg86/635014638c264/,"sni":"sg-lb.vhax.net,"ws-headers":"Host:sg-lb.vhax.net,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2022-12-23 20:27:30] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 28 (char 27)
+{"server":"141.193.213.20,"port":"443,"uuid":"c6747da4-fb2e-4a2a-bdb7-8614bdd6b0b3,"tls":"true,"vmess-aead":"true,"ws":"true,"ws-path":"/sshkit/1736960111/63859b5b38f53/,"sni":"141.193.213.20,"ws-headers":"Host:sg1-v2ray.sshkit.org,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2022-12-23 20:27:30] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 26 (char 25)
+{"server":"15.204.31.63,"port":"80,"uuid":"54e5b550-9eb2-455b-9aa4-0123a68e0b21,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/vmess,"sni":"15.204.31.63,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2022-12-23 20:27:30] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 27 (char 26)
+{"server":"172.67.199.34,"port":"443,"uuid":"40d496a6-ceeb-4096-baeb-4cc52b205621,"tls":"true,"vmess-aead":"true,"ws":"true,"ws-path":"/ECTCJ0DF,"sni":"172.67.199.34,"ws-headers":"Host:lg1.trump2023.us,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2022-12-23 20:27:30] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 28 (char 27)
+{"server":"141.193.213.20,"port":"443,"uuid":"4612618c-24cd-4379-9924-cfdf3d61fa5a,"tls":"true,"vmess-aead":"true,"ws":"true,"ws-path":"/IYKLD53M,"sni":"141.193.213.20,"ws-headers":"Host:opfr1.v2rayfree1.xyz,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2022-12-23 20:27:30] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 29 (char 28)
+{"server":"v143a.toddns.tk,"port":"80,"uuid":"a25881f3-967f-3265-bc7f-9e66857b016b,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/de143-dxddxxj,"sni":"v143a.toddns.tk,"ws-headers":"Host:v143a.toddns.tk,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2022-12-23 20:27:30] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 28 (char 27)
+{"server":"141.193.213.20,"port":"443,"uuid":"2b214122-1906-428a-bbb7-a039cbb7cd5c,"tls":"true,"vmess-aead":"true,"ws":"true,"ws-path":"/9JZFDTKE,"sni":"141.193.213.20,"ws-headers":"Host:fr1.trump2023.org,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2022-12-23 20:27:30] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 27 (char 26)
+{"server":"172.67.199.34,"port":"443,"uuid":"6fea1649-425b-4092-bf53-29792152c925,"tls":"true,"vmess-aead":"true,"ws":"true,"ws-path":"/sshkit/fdfadsfa/63848bfe228fd/,"sni":"172.67.199.34,"ws-headers":"Host:us-lb.sshkit.org,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2022-12-23 20:27:30] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 32 (char 31)
+{"server":"news.microsoft.com,"port":"443,"uuid":"c6747da4-fb2e-4a2a-bdb7-8614bdd6b0b3,"tls":"true,"vmess-aead":"true,"ws":"true,"ws-path":"/sshkit/1736960111/63859bc177a33/,"sni":"news.microsoft.com,"ws-headers":"Host:sg3-v2ray.sshkit.org,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2022-12-23 20:27:30] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 27 (char 26)
+{"server":"172.67.199.34,"port":"80,"uuid":"6fea1649-425b-4092-bf53-29792152c925,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/sshkit/fdfadsfa/63848bfe228fd/,"sni":"172.67.199.34,"ws-headers":"Host:us-lb.sshkit.org,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2022-12-23 20:27:30] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 27 (char 26)
+{"server":"34.145.145.76,"port":"443,"uuid":"5f64fa65-7b14-49c5-954d-aa15c6bfcacd,"tls":"true,"vmess-aead":"true,"ws":"true,"ws-path":"/dongtaiwang.com,"sni":"34.145.145.76,"ws-headers":"Host:clash6.ssr-free.xyz,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2022-12-23 20:27:30] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 26 (char 25)
+{"server":"15.204.31.63,"port":"80,"uuid":"46073112-cde6-44ad-b5df-f3b9ef90b047,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/vmess,"sni":"15.204.31.63,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2022-12-23 20:27:30] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 42 (char 41)
+{"server":"scherehtznur01.sudoer.online,"port":"443,"uuid":"da328110-43f5-502e-8602-0a0bfdd7e0fb,"tls":"true,"vmess-aead":"false,"ws":"true,"ws-path":"/api15,"sni":"scherehtznur01.sudoer.online,"ws-headers":"Host:scherehtznur01.sudoer.online,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2022-12-23 20:27:30] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 42 (char 41)
+{"server":"scherehtzflk02.sudoer.online,"port":"443,"uuid":"a6a1fdc9-48e8-5f59-b3b0-b4f6798e0cc8,"tls":"true,"vmess-aead":"false,"ws":"true,"ws-path":"/api11,"sni":"scherehtzflk02.sudoer.online,"ws-headers":"Host:scherehtzflk02.sudoer.online,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2022-12-23 20:27:30] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 22 (char 21)
+{"server":"uicdn.cf,"port":"80,"uuid":"c6747da4-fb2e-4a2a-bdb7-8614bdd6b0b3,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/sshkit/1736960111/63859bc177a33/,"sni":"uicdn.cf,"ws-headers":"Host:sg3-v2ray.sshkit.org,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2022-12-23 20:27:30] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 28 (char 27)
+{"server":"v143.toddns.tk,"port":"80,"uuid":"a25881f3-967f-3265-bc7f-9e66857b016b,"tls":"false,"vmess-aead":"true,"ws":"true,"ws-path":"/de143-dxddxxj,"sni":"v143.toddns.tk,"ws-headers":"Host:v143.toddns.tk,"skip-cert-verify":"true,"tfo":"false,"udp-relay":"false}
+
+[2022-12-23 20:27:30] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 20 (char 19)
+{"server":"♻️自动选择,"port":"🎯全球直连}
+
+[2022-12-23 20:27:30] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 41 (char 40)
+{"server":"公益机场:https://bit.ly/3BPeo5G,"port":"🇺🇲@SSRSUB-美国V01-付费推荐:dlj.tf/ssrsub,"url":"http://www.gstatic.com/generate_204,"interval":"300}
+
+[2022-12-23 20:27:30] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 19 (char 18)
+{"server":"🔰节点选择,"port":"♻️自动选择}
+
+[2022-12-23 20:27:30] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 19 (char 18)
+{"server":"🎯全球直连,"port":"🔰节点选择}
+
+[2022-12-23 20:27:30] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 19 (char 18)
+{"server":"🎯全球直连,"port":"🔰节点选择}
+
+[2022-12-23 20:27:30] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 19 (char 18)
+{"server":"🔰节点选择,"port":"公益机场:https://bit.ly/3BPeo5G}
+
+[2022-12-23 20:27:30] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 19 (char 18)
+{"server":"🎯全球直连,"port":"🔰节点选择}
+
+[2022-12-23 20:27:30] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 20 (char 19)
+{"server":"REJECT,"port":"DIRECT}
+
+[2022-12-23 20:27:30] SubConvert-Line-201-Exception:Expecting ',' delimiter: line 1 column 19 (char 18)
+{"server":"🔰节点选择,"port":"🎯全球直连}
+
+[2022-12-23 20:27:30] SubConvert-Line-201-Exception:'type'
+{}
+
+[2022-12-23 20:27:30] SubConvert-Line-201-Exception:'type'
+{}
+
+[2022-12-23 20:27:30] SubConvert-Line-201-Exception:'type'
+{}
+
+[2022-12-23 20:27:30] SubConvert-Line-201-Exception:'type'
+{}
+
+[2022-12-23 20:27:30] SubConvert-Line-201-Exception:'type'
+{}
+
+[2022-12-23 20:27:30] SubConvert-Line-201-Exception:'type'
+{}
+
+[2022-12-23 20:27:30] SubConvert-Line-201-Exception:'type'
+{}
+
+[2022-12-23 20:27:30] SubConvert-Line-201-Exception:'type'
+{}
+
+[2022-12-23 20:27:30] SubConvert-Line-201-Exception:'type'
+{}
+
+[2022-12-23 20:27:30] SubConvert-Line-201-Exception:'type'
+{}
+
+[2022-12-23 20:27:30] SubConvert-Line-201-Exception:'type'
+{}
+
+[2022-12-23 20:27:30] SubConvert-Line-201-Exception:'type'
+{}
+
+[2022-12-23 20:27:30] SubConvert-Line-201-Exception:'type'
+{}
+
+[2022-12-23 20:27:30] SubConvert-Line-201-Exception:'type'
+{}
+
+[2022-12-23 20:27:30] SubConvert-Line-201-Exception:list index out of range
+GEOIP,CN,🎯全球直连
+
+[2022-12-23 20:27:30] SubConvert-Line-201-Exception:list index out of range
+FINAL,🐟漏网之鱼,dns-failed
