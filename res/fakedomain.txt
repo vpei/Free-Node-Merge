@@ -7771,3 +7771,5 @@ sg12.900513.xyz:10086:8a03bc28-2a33-42c4-be59-30464dbb9954
 dl-hk4.efyunpan.com:443:2138aa7d-ec92-4de3-8c66-2f60152a3e9d
 ir2.archnet.cyou:9999:8ce6f8a8-9aca-4029-994a-cedc1ba8292c
 tr6.tgcunzhang.xyz:54178:2a9ba60d-10ce-4f79-97e7-817334456195
+zxcvbn@tk-tr-4.cats22.net:443:18844
+eu-east-ruo.openssl3.com:443:9KogHwaY7hVD
