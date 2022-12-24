@@ -9515,3 +9515,6 @@ dl-jp2.efyunpan.com:443:89cb9c20-9a11-40cc-9a19-ec87c4381a4e
 jp01.170203.xyz:45334:0301cba3-7d42-4610-9b64-dc8901c2812a
 api.mjj-home.com:443:share.mjj-home.com
 sg.sharecentrepro.tk:443:sharecentre
+dl-sg3.efyunpan.com:443:89cb9c20-9a11-40cc-9a19-ec87c4381a4e
+sg.liangyuandian.top:443:b341f309-7e2b-45c4-a316-9e23037e3711
+ru01.170203.xyz:34234:0301cba3-7d42-4610-9b64-dc8901c2812a
