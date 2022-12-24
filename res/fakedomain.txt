@@ -9514,3 +9514,4 @@ my01.trojanyyds.xyz:443:8534025c-c952-4335-ad4b-3e70e8b58b77
 dl-jp2.efyunpan.com:443:89cb9c20-9a11-40cc-9a19-ec87c4381a4e
 jp01.170203.xyz:45334:0301cba3-7d42-4610-9b64-dc8901c2812a
 api.mjj-home.com:443:share.mjj-home.com
+sg.sharecentrepro.tk:443:sharecentre
