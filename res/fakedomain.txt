@@ -7875,3 +7875,8 @@ dl-eu1.efyunpan.com:443:89cb9c20-9a11-40cc-9a19-ec87c4381a4e
 dl-sg2.efyunpan.com:443:89cb9c20-9a11-40cc-9a19-ec87c4381a4e
 jp.iamnotagoodman.com:443:4f8c0e41-dbdb-40f1-99cb-2c2a0b909b52
 ru03.170203.xyz:34234:c5557e32-9801-4c10-81c1-3546f67ea8bd
+download2hkt.windowsupdate.lol:443:7e4cce7c-15b4-4436-9b75-28f483d63161
+kr.hktkcloud.cloud:443:83c66e32-1934-4b54-bd41-6f9908352162
+dl-sg4.efyunpan.com:443:89cb9c20-9a11-40cc-9a19-ec87c4381a4e
+sgt3.sshocean.net:443:8eb63951-0286-4d33-98cd-f46007afa74e
+friendhosting.v241p.top:443:b8a01914-f44f-499d-8a65-26d845ef4fc9
