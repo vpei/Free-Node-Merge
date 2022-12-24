@@ -7868,3 +7868,10 @@ official.tokyometropolis.chernigov.ua:2053:96983eb4-c8f1-316e-ab00-500014ed3d8b
 official.tokyometropolis.kharkov.ua:2053:96983eb4-c8f1-316e-ab00-500014ed3d8b
 hkmax04.170203.xyz:45435:4a34ce4a-0264-4b58-bc26-4db547495281
 ukt-2.opensvr.net:443:opentunnel.net-rw8uuv207taq
+orauk2.flazewang.xyz:443:d47ec8f8-e3cb-4d54-b43e-ad19ba2efe7c
+dl-jp4.efyunpan.com:443:89cb9c20-9a11-40cc-9a19-ec87c4381a4e
+sgmax03.170203.xyz:45436:7078a0e8-72b5-40c6-8c04-138cbf933e23
+dl-eu1.efyunpan.com:443:89cb9c20-9a11-40cc-9a19-ec87c4381a4e
+dl-sg2.efyunpan.com:443:89cb9c20-9a11-40cc-9a19-ec87c4381a4e
+jp.iamnotagoodman.com:443:4f8c0e41-dbdb-40f1-99cb-2c2a0b909b52
+ru03.170203.xyz:34234:c5557e32-9801-4c10-81c1-3546f67ea8bd
