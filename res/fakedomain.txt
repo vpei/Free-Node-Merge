@@ -7889,3 +7889,5 @@ dl-eu1.efyunpan.com:443:bbaf4af2-c1a8-4b9a-910e-8cb751fc4936
 dl-hk2.efyunpan.com:443:bbaf4af2-c1a8-4b9a-910e-8cb751fc4936
 core1.efyunpan.com:443:bbaf4af2-c1a8-4b9a-910e-8cb751fc4936
 dl-kr1.efyunpan.com:443:bbaf4af2-c1a8-4b9a-910e-8cb751fc4936
+dl-tw2.efyunpan.com:443:bbaf4af2-c1a8-4b9a-910e-8cb751fc4936
+dl-tw1.efyunpan.com:443:bbaf4af2-c1a8-4b9a-910e-8cb751fc4936
