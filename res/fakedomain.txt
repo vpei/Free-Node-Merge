@@ -7886,3 +7886,6 @@ dl-jp4.efyunpan.com:443:bbaf4af2-c1a8-4b9a-910e-8cb751fc4936
 sgmax03.170203.xyz:45436:6e176c74-1525-499f-9824-2354c4c53f7a
 dl-eu2.efyunpan.com:443:bbaf4af2-c1a8-4b9a-910e-8cb751fc4936
 dl-eu1.efyunpan.com:443:bbaf4af2-c1a8-4b9a-910e-8cb751fc4936
+dl-hk2.efyunpan.com:443:bbaf4af2-c1a8-4b9a-910e-8cb751fc4936
+core1.efyunpan.com:443:bbaf4af2-c1a8-4b9a-910e-8cb751fc4936
+dl-kr1.efyunpan.com:443:bbaf4af2-c1a8-4b9a-910e-8cb751fc4936
