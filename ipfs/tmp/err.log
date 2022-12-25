@@ -10265,3 +10265,11 @@ onenode:vmess://eyJhZGQiOiIyMy4yMjQuMzEuNDMiLCJwb3J0IjoiNDQzIiwiaWQiOiIyMjc4ZWZl
 [2022-12-26 00:25:24] SubConvert-Line-516-Exception:Invalid base64-encoded string: number of data characters (57) cannot be 1 more than a multiple of 4
 onenode:YWVzLTEyOC1nY206ITxzdHI-IDIwMjIxMjAwMDAwMDAwMDAwMDAwMDAyMA@sg.securevpn.cc:1020
 oldonenode:ss://YWVzLTEyOC1nY206ITxzdHI-IDIwMjIxMjAwMDAwMDAwMDAwMDAwMDAyMA@sg.securevpn.cc:1020
+
+[2022-12-26 01:09:12] SubConvert-Line-516-Exception:Invalid base64-encoded string: number of data characters (57) cannot be 1 more than a multiple of 4
+onenode:YWVzLTEyOC1nY206ITxzdHI-IDIwMjIxMjAwMDAwMDAwMDAwMDAwMDAyMA@sg.securevpn.cc:1020
+oldonenode:ss://YWVzLTEyOC1nY206ITxzdHI-IDIwMjIxMjAwMDAwMDAwMDAwMDAwMDAyMA@sg.securevpn.cc:1020
+
+[2022-12-26 01:09:12] SubConvert-Line-516-Exception:Invalid base64-encoded string: number of data characters (57) cannot be 1 more than a multiple of 4
+onenode:YWVzLTEyOC1nY206ITxzdHI-IDIwMjIxMjAwMDAwMDAwMDAwMDAwMDAyMA@sg.securevpn.cc:1020
+oldonenode:ss://YWVzLTEyOC1nY206ITxzdHI-IDIwMjIxMjAwMDAwMDAwMDAwMDAwMDAyMA@sg.securevpn.cc:1020
