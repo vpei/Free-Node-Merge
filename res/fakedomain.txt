@@ -9525,3 +9525,7 @@ jp.iamnotagoodman.com:443:f8d19ba5-8684-45f2-8523-77dbea588955
 www.anloe.ga:9063:b64b0f9c-23df-3112-a790-d8aa068aa2fe
 ea-u.zdv898.icu:30063:d1667181-eec0-49c9-924f-6589de4d2257
 usa.stablize.top:443:c59d82d3-3e80-4fab-baef-336a744e31c5
+my.mjt001.com:443:6ca86014-8d5b-45e4-ae7c-90994689037f
+kr.mjt001.com:443:6ca86014-8d5b-45e4-ae7c-90994689037f
+hkt.mjt001.com:443:6ca86014-8d5b-45e4-ae7c-90994689037f
+hk.swiftfalcon.app:28892:shenmegui
