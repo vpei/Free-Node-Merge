@@ -9544,3 +9544,8 @@ zxcvbn@133.167.118.246:443:18844
 jp.swiftfalcon.app:8460:shenmegui
 de-aws.uuuglass.co:52229:3628ca8d-6371-45df-879c-2d3e5d110b51
 de-aws.uuuglass.co:443:3628ca8d-6371-45df-879c-2d3e5d110b51
+sg01.trojanyyds.xyz:443:ead8ca32-2d5a-4386-94c1-28255cbef252
+usla.mjt001.com:443:6ca86014-8d5b-45e4-ae7c-90994689037f
+uk01.clashzone.xyz:54122:430b6895-2e0f-4716-9410-e1339d0f9af6
+us.swiftfalcon.app:8447:shenmegui
+h961359.waihuizhibiaowang.com:13443:709290b9-8e14-46d6-a56f-2097ae8179e2
