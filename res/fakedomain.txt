@@ -9533,3 +9533,14 @@ jgw.t0.work:443:4792f5e4-62dc-4f74-8136-8b8356583de1
 kh.mjt001.com:443:459d23f4-dcfd-4fef-9ba3-ef0ad10fc336
 sg-cdn.iqyun.zone:12522:3628ca8d-6371-45df-879c-2d3e5d110b51
 deof.vvvglass.com:8443:3628ca8d-6371-45df-879c-2d3e5d110b51
+download1hkt.windowsupdate.lol:443:d2727ecc-87bd-4bd0-b321-eb037b5d4cca
+de01.trojanyyds.xyz:443:ead8ca32-2d5a-4386-94c1-28255cbef252
+hinet.mjt001.com:443:500b1c7c-caf0-481c-8c7d-3eeb84e70ad4
+lux.mjt001.com:443:6ca86014-8d5b-45e4-ae7c-90994689037f
+tr2.tgcunzhang.xyz:54858:2a9ba60d-10ce-4f79-97e7-817334456195
+upload.soft98.download:443:a2c8194b-fcfd-4c39-a6bd-31ea9f4ea671
+send.lele233.com:8006:3628ca8d-6371-45df-879c-2d3e5d110b51
+zxcvbn@133.167.118.246:443:18844
+jp.swiftfalcon.app:8460:shenmegui
+de-aws.uuuglass.co:52229:3628ca8d-6371-45df-879c-2d3e5d110b51
+de-aws.uuuglass.co:443:3628ca8d-6371-45df-879c-2d3e5d110b51
