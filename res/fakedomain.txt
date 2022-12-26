@@ -9530,3 +9530,6 @@ kr.mjt001.com:443:6ca86014-8d5b-45e4-ae7c-90994689037f
 hkt.mjt001.com:443:6ca86014-8d5b-45e4-ae7c-90994689037f
 hk.swiftfalcon.app:28892:shenmegui
 jgw.t0.work:443:4792f5e4-62dc-4f74-8136-8b8356583de1
+kh.mjt001.com:443:459d23f4-dcfd-4fef-9ba3-ef0ad10fc336
+sg-cdn.iqyun.zone:12522:3628ca8d-6371-45df-879c-2d3e5d110b51
+deof.vvvglass.com:8443:3628ca8d-6371-45df-879c-2d3e5d110b51
