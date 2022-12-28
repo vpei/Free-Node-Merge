@@ -9559,3 +9559,4 @@ zxcvbn@os6.cats22.net:443:18844
 [2607:0:941dc916-cabb-40a0-cb33-9f9b22c6b796
 jp-tk-32.fuckjdieng.uk:50346:b5c99730-d577-4709-934b-4ed42f0eb00b
 mirrors.lele233.com:443:3628ca8d-6371-45df-879c-2d3e5d110b51
+university.lele233.com:443:3628ca8d-6371-45df-879c-2d3e5d110b51
