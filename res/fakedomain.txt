@@ -9573,3 +9573,5 @@ dl-jp2.efyunpan.com:443:3e9b82ba-ed57-4425-a6c3-be36c0737266
 sgp-3.fuckjdieng.uk:50148:ec8a0784-3a84-42be-be68-3f559321b07e
 dl-sg2.efyunpan.com:443:f5b40770-df43-40fc-b7de-e2f65371e6e6
 h961359.waihuizhibiaowang.com:13543:709290b9-8e14-46d6-a56f-2097ae8179e2
+dl-jp1.efyunpan.com:443:f5b40770-df43-40fc-b7de-e2f65371e6e6
+sg4.b86235f9-aed1-4afd-a752-c255dfcf5bbe.yiyuan.cyou:443:bf8ad253-57ec-4e5d-a54a-14a502b68625
