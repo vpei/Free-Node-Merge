@@ -9614,3 +9614,6 @@ ngrzs-1047-tr-0.hkg-r-kcd-b.jd.cjhh.lol:39919:DUDQEpiaSjscHHVPfWvSaApEakXbhBCK
 20015.purefast2.com:20015:ed3ccb1e-7057-3d40-b794-630ef18fb7d2
 dl-hk2.efyunpan.com:443:f80701c9-ec4a-4cf1-ba5a-78d821234388
 hn.playstone.info:443:hhvcwd
+hinet.mjt001.com:443:6ca86014-8d5b-45e4-ae7c-90994689037f
+sg1.b86235f9-aed1-4afd-a752-c255dfcf5bbe.yiyuan.cyou:443:897ca4ae-60da-4dbc-8e3f-1b907a686187
+sgp-2.fuckjdieng.uk:50100:a5a90015-04c3-4350-838a-bbd3dcd092fa
