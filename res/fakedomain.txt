@@ -9609,3 +9609,6 @@ us1.b86235f9-aed1-4afd-a752-c255dfcf5bbe.yiyuan.cyou:443:897ca4ae-60da-4dbc-8e3f
 20016.purefast2.com:20016:83a3b688-04e5-3c28-85b7-82698a174e41
 20001.purefast2.com:20001:357827e5-a45d-3f09-9b73-ef4431dfb323
 ngrzs-1047-tr-0.hkg-r-kcd-b.jd.cjhh.lol:39919:DUDQEpiaSjscHHVPfWvSaApEakXbhBCK
+20005.purefast2.com:20005:83a3b688-04e5-3c28-85b7-82698a174e41
+20005.purefast2.com:20005:bab40563-cafe-39c1-9d76-c3e627d73758
+20015.purefast2.com:20015:ed3ccb1e-7057-3d40-b794-630ef18fb7d2
