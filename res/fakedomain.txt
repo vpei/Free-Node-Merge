@@ -9608,3 +9608,4 @@ dl-us1.efyunpan.com:443:f5b40770-df43-40fc-b7de-e2f65371e6e6
 us1.b86235f9-aed1-4afd-a752-c255dfcf5bbe.yiyuan.cyou:443:897ca4ae-60da-4dbc-8e3f-1b907a686187
 20016.purefast2.com:20016:83a3b688-04e5-3c28-85b7-82698a174e41
 20001.purefast2.com:20001:357827e5-a45d-3f09-9b73-ef4431dfb323
+ngrzs-1047-tr-0.hkg-r-kcd-b.jd.cjhh.lol:39919:DUDQEpiaSjscHHVPfWvSaApEakXbhBCK
