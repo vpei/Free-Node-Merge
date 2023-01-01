@@ -9661,3 +9661,8 @@ dl-am2.efyunpan.com:443:a2bb4d99-c54f-4e4e-9722-f7b8a2ecbb03
 dl-jp2.efyunpan.com:443:a2bb4d99-c54f-4e4e-9722-f7b8a2ecbb03
 sgp-3.fuckjdieng.uk:50412:faebb9b6-3c6e-4542-8eeb-9a3a393003b6
 20000.purefast2.com:20000:a71df8e7-d563-3ebc-a26a-168c8dc8c9f3
+tr1.tgcunzhang.xyz:54637:2a9ba60d-10ce-4f79-97e7-817334456195
+sg-ovh.tjvpn.org:443:483a57c0-8545-11ed-b034-225401db9d57
+20016.purefast2.com:20016:a71df8e7-d563-3ebc-a26a-168c8dc8c9f3
+20003.purefast2.com:20003:83a3b688-04e5-3c28-85b7-82698a174e41
+20016.purefast2.com:20016:357827e5-a45d-3f09-9b73-ef4431dfb323
