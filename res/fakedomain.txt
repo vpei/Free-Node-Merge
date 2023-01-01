@@ -9655,3 +9655,9 @@ dl-eu2.efyunpan.com:443:a2bb4d99-c54f-4e4e-9722-f7b8a2ecbb03
 dl-sg3.efyunpan.com:443:a2bb4d99-c54f-4e4e-9722-f7b8a2ecbb03
 ph.bilbil.win:33210:f56e4c57-3f03-472a-b786-1426b48274df
 2d1t5w06.mcfront.xyz:31311:7867d08b-acdb-4cf8-81e4-6bdaab372035
+dl-am1.efyunpan.com:443:a2bb4d99-c54f-4e4e-9722-f7b8a2ecbb03
+dl-us1.efyunpan.com:443:a2bb4d99-c54f-4e4e-9722-f7b8a2ecbb03
+dl-am2.efyunpan.com:443:a2bb4d99-c54f-4e4e-9722-f7b8a2ecbb03
+dl-jp2.efyunpan.com:443:a2bb4d99-c54f-4e4e-9722-f7b8a2ecbb03
+sgp-3.fuckjdieng.uk:50412:faebb9b6-3c6e-4542-8eeb-9a3a393003b6
+20000.purefast2.com:20000:a71df8e7-d563-3ebc-a26a-168c8dc8c9f3
