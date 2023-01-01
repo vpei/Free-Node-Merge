@@ -9647,3 +9647,8 @@ s-g01.beef1917.com:53036:3ab1fc5c-25c4-4e29-b5ad-ac7d220b521c
 scloud60.jafiyun.world:22060:7bc4c9e3-30d8-3d83-93d2-3851a34bf2b5
 ap.stablize.top:443:f84eb1cc-1558-409b-a871-8dfa9563274e
 jp-tk-32.fuckjdieng.uk:50464:2d5016d9-02d1-414d-b6c8-1fe3702698c6
+jp-tk-31.fuckjdieng.uk:50018:db1e292f-5dbb-451f-a7ec-f85e1c80d5d8
+dl-eu1.efyunpan.com:443:a2bb4d99-c54f-4e4e-9722-f7b8a2ecbb03
+dl-eu2.efyunpan.com:443:a2bb4d99-c54f-4e4e-9722-f7b8a2ecbb03
+20003.purefast2.com:20003:a71df8e7-d563-3ebc-a26a-168c8dc8c9f3
+20007.purefast2.com:20007:ed3ccb1e-7057-3d40-b794-630ef18fb7d2
