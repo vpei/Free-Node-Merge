@@ -9654,3 +9654,4 @@ dl-eu2.efyunpan.com:443:a2bb4d99-c54f-4e4e-9722-f7b8a2ecbb03
 20007.purefast2.com:20007:ed3ccb1e-7057-3d40-b794-630ef18fb7d2
 dl-sg3.efyunpan.com:443:a2bb4d99-c54f-4e4e-9722-f7b8a2ecbb03
 ph.bilbil.win:33210:f56e4c57-3f03-472a-b786-1426b48274df
+2d1t5w06.mcfront.xyz:31311:7867d08b-acdb-4cf8-81e4-6bdaab372035
