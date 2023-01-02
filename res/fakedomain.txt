@@ -9678,3 +9678,7 @@ dl-sg1.efyunpan.com:443:a2bb4d99-c54f-4e4e-9722-f7b8a2ecbb03
 u-s01.beef1917.com:53028:3ab1fc5c-25c4-4e29-b5ad-ac7d220b521c
 dl-hk3.efyunpan.com:443:a2bb4d99-c54f-4e4e-9722-f7b8a2ecbb03
 20015.purefast2.com:20015:357827e5-a45d-3f09-9b73-ef4431dfb323
+azgp03.bestdong.xyz:8001:000d3d03-ec8b-3a08-b806-add573459287
+jp23.baf1.sbs:443:deed22f7-070b-4d6f-bffd-629a1803c837
+jp-tk-32.fuckjdieng.uk:50204:f05aeb7a-14cf-4f11-aba6-cfec276bbfd0
+trahk1.bnnodeservice.com:32443:c2b0106e-178a-4a41-ad37-380c587cf08a
