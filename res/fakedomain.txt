@@ -9694,3 +9694,6 @@ lux.mjt001.com:443:3b14c162-43a0-4f16-bedf-50e818a9a8e3
 kz.mjt001.com:443:6ca86014-8d5b-45e4-ae7c-90994689037f
 dl-kr2.efyunpan.com:443:a34b4807-bc03-4323-9c05-deafdf6816e0
 sg-ovh.tjvpn.org:443:f05aa2e0-886e-11ed-b132-225401db9d57
+azgp03.bestdong.xyz:8003:000d3d03-ec8b-3a08-b806-add573459287
+sg.mjt001.com:443:3b14c162-43a0-4f16-bedf-50e818a9a8e3
+azgp03.bestdong.xyz:8000:000d3d03-ec8b-3a08-b806-add573459287
