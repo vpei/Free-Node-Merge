@@ -9676,3 +9676,5 @@ md25ufcmgr83.b4s02m25.xyz:11203:3243fd78-2fd8-3632-ab67-b7cd66d9632f
 dl-sg1.efyunpan.com:443:a2bb4d99-c54f-4e4e-9722-f7b8a2ecbb03
 20009.purefast2.com:20009:6aea033e-8559-3c93-a5c3-e04887e9dc77
 u-s01.beef1917.com:53028:3ab1fc5c-25c4-4e29-b5ad-ac7d220b521c
+dl-hk3.efyunpan.com:443:a2bb4d99-c54f-4e4e-9722-f7b8a2ecbb03
+20015.purefast2.com:20015:357827e5-a45d-3f09-9b73-ef4431dfb323
