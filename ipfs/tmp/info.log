@@ -1234,3 +1234,9 @@ cipher:dummy
 
 [2023-01-03 00:32:00] Main-Line-799-allcipher.find(cipher.upper())-j:ssr://MzcuNTkuMjMzLjEwNzo0NDM6b3JpZ2luOmR1bW15Omh0dHBfc2ltcGxlOmJXVm9jblp3Ymc9PS8/b2Jmc3BhcmFtPSZwcm90b3BhcmFtPSZyZW1hcmtzPTVyT1Y1WnU5WHpFeE1USXdNekEmZ3JvdXA9
 cipher:dummy
+
+[2023-01-03 01:30:43] Main-Line-799-allcipher.find(cipher.upper())-j:ssr://MzcuNTkuMjMzLjEwNzo0NDM6b3JpZ2luOmR1bW15Omh0dHBfc2ltcGxlOmJXVm9jblp3Ymc9PS8/b2Jmc3BhcmFtPSZwcm90b3BhcmFtPSZyZW1hcmtzPTVyT1Y1WnU5WHpFeE1USXdNekEmZ3JvdXA9
+cipher:dummy
+
+[2023-01-03 01:30:48] Main-Line-799-allcipher.find(cipher.upper())-j:{"type": "none", "ps": "\ud83c\uddfa\ud83c\udde6-\u4e4c\u514b\u5170-5.105.50.78", "http-opts": "", "path": "[/watch]", "add": "5.105.50.78", "port": "443", "id": "14616e83-4d39-9a97-33ca-040babea53c2", "aid": "0", "scy": "chacha20-poly1305", "net": "http", "tls": "true"}
+cipher:chacha20-poly1305
