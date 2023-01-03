@@ -634,7 +634,7 @@ if(menu == 'allclash'):
     proxies_url = ''
     clashname = ''
     telename = ''
-    nodecount = 192
+    nodecount = 256
     datecont = time.strftime('%m-%d', time.localtime(time.time()))
     if(len(allnodetxt) > 0):
         for j in allnodetxt.split('\n'):
@@ -645,7 +645,7 @@ if(menu == 'allclash'):
                     cipher = ''
                     # j = 'ssr://dHctMi5naXRvLmNjOjMzNDA1OmF1dGhfYWVzMTI4X21kNTphZXMtMjU2LWNmYjp0bHMxLjJfdGlja2V0X2F1dGg6T1dsbVlYTjAvP2dyb3VwPVUxTlNVSEp2ZG1sa1pYSSZyZW1hcmtzPTVyS3o1WTJYNTV5QjZhbTc2YW1zNWJxWDViaUNMWFIzTFRJdVoybDBieTVqWXc9PSZvYmZzcGFyYW09NzctOWEtLV92ZS1fdlRjMTc3LTk3Ny05TU8tX3ZXcnZ2NzEzYm14dlotLV92WGRwYm1ydnY3MTNlZS1fdlhMdnY3MTI3Ny05NzctOWIyMCZwcm90b3BhcmFtPTc3LTkyN252djczdnY3MTY3Ny05R3UtX3ZlLV92ZS1fdlE='
                     # j = 'ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW9AMTYyLjI1MS42MS4yMjE6ODA0'    
-                    print('Main-Line-517-j-' + str(nodecount) + '-j-' + j)
+                    print('Main-Line-648-j-' + str(nodecount) + '-j-' + j)
                     if (j.find("vmess://") == 0):
                         j = SubConvert.check_url_v2ray_vmess(j)
                         j = base64.b64decode(j[8:].encode('utf-8')).decode('utf-8')
@@ -828,7 +828,7 @@ if(menu == 'allclash'):
                         # openclashurl = openclashurl + onenode[:-1] + ', udp: true}\n'
                         openclashurl = openclashurl + onenode + '\n'
                         clash_node_url = clash_node_url + '\n' + onenode.replace('  - {', '  - {"').replace('"', '').replace('\'', '').replace(': ', '": "').replace(', ', '", "').replace('}', '"}')
-                        if(newname.find('伊朗') == -1 and newname.find(u'中国') == -1):
+                        if(newname.find('伊朗') == -1 and newname.find(u'中非') == -1):
                             telename = telename + '  - \'' + newname + '\'\n'
                             proxies_url = proxies_url + onenode + '\n'
                         print('Main-Line-740-已添加-onenode:\n' + onenode)
