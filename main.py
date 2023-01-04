@@ -681,6 +681,8 @@ if(menu == 'allclash'):
                         oldname = j.split("#", 1)[1]
                         password = StrText.get_str_btw(j, "trojan://", "@", 0).replace('<', '').replace('>', '')
                         server = StrText.get_str_btw(j, "@", ":", 0)
+                        if(server.find('@') > -1):
+                            server = server.split('@')[1]
                         newname = '[' + datecont + ']-' + IpAddress.get_country(server) + '-'+ str(nodecount).zfill(3) + '-' + server
                         if (j.find("?") > -1):
                             port = StrText.get_str_btw(StrText.get_str_btw(j, "@", "#", 0), ":", "?", 0)
