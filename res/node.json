@@ -1,12 +1,10 @@
 {"uptime": "2021-10-10 20:15:53", "type": "clash", "upmd5": "c7c3c49ec71611d620afa9148c2571df", "upurl": "http://122.225.207.101:8080/ipns/k2k4r8kms1l1k3wljk4o8eopnb2dltfvh8pypr0zkeyjunyagft3aqvs/vpn.yaml", "size": 24897}
-{"uptime": "2022-10-08 23:09:08", "type": "mixed", "upmd5": "727e78959218e8bd0a66750069e54f63", "upurl": "https://v2ray.neocities.org/v2ray.txt", "size": 1992}
-{"uptime": "2022-10-08 23:09:16", "type": "mixed", "upmd5": "20316acf1adffa83ef92bce592e96859", "upurl": "https://raw.githubusercontent.com/wrfree/free/main/ssr", "size": 1428}
-{"uptime": "2022-10-08 23:09:16", "type": "mixed", "upmd5": "30cafcdba7d4d1f65c45b3ac39125cb8", "upurl": "https://raw.githubusercontent.com/colatiger/v2ray-nodes/master/trojan.md", "size": 1580}
+{"uptime": "2022-10-08 23:09:16", "type": "mixed", "upmd5": "30cafcdba7d4d1f65c45b3ac39125cb8", "upurl": "https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/list_raw.txt", "size": 1580}
+{"uptime": "2022-10-08 23:09:16", "type": "mixed", "upmd5": "30cafcdba7d4d1f65c45b3ac39125cb8", "upurl": "https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/list.txt", "size": 1580}
+{"uptime": "2022-10-08 23:21:00", "type": "clash", "upmd5": "9e72a9ed1153b23ec9b14e02ab5933bd", "upurl": "https://proxy.huwo.club/clash.yaml", "size": 2048}
+{"uptime": "2022-10-08 23:09:16", "type": "mixed", "upmd5": "30cafcdba7d4d1f65c45b3ac39125cb8", "upurl": "https://proxy.huwo.club/v2ray.txt", "size": 1580}
 {"uptime": "2022-10-08 23:09:18", "type": "mixed", "upmd5": "070275748edee18502f8c0a6b65b739c", "upurl": "https://raw.githubusercontent.com/eycorsican/rule-sets/master/kitsunebi_sub", "size": 1448}
-{"uptime": "2022-10-08 23:20:55", "type": "mixed", "upmd5": "2cbf6225ffde71ab7a628f591c41d016", "upurl": "https://raw.githubusercontent.com/wrfree/free/main/v2", "size": 24880}
 {"uptime": "2022-10-08 23:21:00", "type": "clash", "upmd5": "9e72a9ed1153b23ec9b14e02ab5933bd", "upurl": "https://api.buliang0.cf/easyclash", "size": 2048}
-{"uptime": "2022-10-08 23:21:03", "type": "mixed", "upmd5": "cccdd92b58e6174a96ad7fdb70c1c002", "upurl": "https://raw.githubusercontent.com/colatiger/v2ray-nodes/master/vmess.md", "size": 18120}
-{"uptime": "2022-10-08 23:21:04", "type": "mixed", "upmd5": "f7bfc767c031a433865b6d7618d3d9aa", "upurl": "https://raw.githubusercontent.com/colatiger/v2ray-nodes/master/ss.md", "size": 3540}
 {"uptime": "2022-10-09 20:22:37", "type": "clash", "upmd5": "6b801b6c4f62af98ac70011a9cf83f9f", "upurl": "https://v2ray.neocities.org/clash.xml", "size": 122117}
 {"uptime": "2022-10-09 20:22:40", "type": "clash", "upmd5": "4067454d6d74ae635688c767b4e9b556", "upurl": "https://raw.githubusercontent.com/learnhard-cn/free_proxy_ss/main/config.yaml", "size": 33964}
 {"uptime": "2022-10-09 20:23:09", "type": "clash", "upmd5": "9a0f47312e69f475cd9221925838ad54", "upurl": "https://raw.githubusercontent.com/alanbobs999/TopFreeProxies/master/sub/sub_merge_yaml.yml", "size": 1335579}
