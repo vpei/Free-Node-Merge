@@ -182,7 +182,7 @@ class SubConvert():
             # 字典格式SS信息
             onenode = '{"cipher":"' + cipher + '","password":"' + password + '","server":"' + server + '","port":"' + str(port) + '","name":"' + name + '"}'
             
-            node = json.loads(onenode)
+            node = json.loads(onenode, strict=False)
             # 端口为空，UUID-id无效（id长度=36）
             if('port' not in node.keys()):
                 return ''

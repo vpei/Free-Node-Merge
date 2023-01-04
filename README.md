@@ -4,7 +4,7 @@
 
 ## 💌 Clash更新推送 适用于Clash 订阅，适用于 Clash .NET 等。openclash.yaml支持udp：true参数。
 ```
-https://suo.yt/EOglaRF
+https://suo.yt/dJ8CWqe
 ```
 
 ## 👩‍👩‍👧‍👦 Telegram电报群(发送订阅链接获取最新Clash链接)
