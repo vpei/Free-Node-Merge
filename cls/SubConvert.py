@@ -561,9 +561,11 @@ class SubConvert():
             onode += ', skip-cert-verify: true'
             onode += ', network: ' + node['network']
             if(onenode.find('"sni"') > -1):
-                onode += ', sni: ' + node['sni']
+                if(node['sni'] != ''):
+                    onode += ', sni: ' + node['sni']
             if(onenode.find('"alpn"') > -1):
-                onode += ', alpn: ' + node['alpn']
+                if(node['alpn'] != ''):
+                    onode += ', alpn: ' + node['alpn']
             # 带插件的vmess
             if('ws-opts' in node.keys()):
                 # ws-opts: {path: /, headers: {Host: london1.na.invari.na.oonvari.com}}
