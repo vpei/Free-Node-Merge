@@ -12157,3 +12157,17 @@ oss-cn-shanghai.westdatacloud.xyz:20032:30030B00-A596-87B4-965A-511CD7E05351
 20004.purefast2.com:20004:357827e5-a45d-3f09-9b73-ef4431dfb323
 20009.purefast2.com:20009:0989fa4f-7b43-34fd-8f7f-ce06427dce06
 20002.purefast2.com:20002:0989fa4f-7b43-34fd-8f7f-ce06427dce06
+hkt.mjt001.com:443:3b14c162-43a0-4f16-bedf-50e818a9a8e3
+xioix.gq:443:9b7195ba-f029-4d7d-a728-ece6e0fdc363
+us2.trojanvh.xyz:80:aa6eb272-1d8d-4461-9687-85ddbab1adb0
+os2-7.nrojat.com:443:EJBsFzWnEgXZnmzHq8
+os1-7.nrojat.com:443:EJBsFzWnEgXZnmzHq8
+dl-us1.efyunpan.com:443:412d96f7-9729-4947-bf4b-0084fe41a9d1
+dl-us3.efyunpan.com:443:412d96f7-9729-4947-bf4b-0084fe41a9d1
+zzjp01.fuqiangren.com:20221:89bd9d68-a41b-4286-8f79-c0665c0cbdce
+20009.purefast2.com:20009:a71df8e7-d563-3ebc-a26a-168c8dc8c9f3
+20004.purefast2.com:20004:a71df8e7-d563-3ebc-a26a-168c8dc8c9f3
+oss-cn-shanghai.westdatacloud.xyz:20032:0348F3CF-9DB8-B324-F84B-7AAB2678938D
+20012.purefast2.com:20012:0989fa4f-7b43-34fd-8f7f-ce06427dce06
+20008.purefast2.com:20008:0989fa4f-7b43-34fd-8f7f-ce06427dce06
+20011.purefast2.com:20011:0989fa4f-7b43-34fd-8f7f-ce06427dce06
