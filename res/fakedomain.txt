@@ -7231,3 +7231,11 @@ zzjp01.fuqiangren.com:20220:1c810c70-ed37-41eb-ad76-3069823def7e
 sg6-trojan.bonds.id:443:81e9f5f0-1c92-11ed-8d18-1239d0255272
 dl-eu1.efyunpan.com:443:1b763297-bbea-4495-9928-c41cb20f08c8
 h16r.centaur.network:16804:5b27d538-504d-4bc0-baeb-d3e22903f253
+download2hkt.windowsupdate.lol:443:80a5fbf0-b54a-4cbe-be3d-9c638ddbc906
+zzus01.fuqiangren.com:20220:879cda00-75d2-46df-8987-139b0f265f9c
+zzjp01.fuqiangren.com:20220:bb1787c4-82ae-4172-88eb-370d0616f3e2
+zzjp01.fuqiangren.com:20221:56c45f67-7f70-4ec1-891b-1a9d517c6c41
+20010.purefast2.com:20010:357827e5-a45d-3f09-9b73-ef4431dfb323
+20002.purefast2.com:20002:ed3ccb1e-7057-3d40-b794-630ef18fb7d2
+20011.purefast2.com:20011:ed3ccb1e-7057-3d40-b794-630ef18fb7d2
+official.seoulcityhall.com.ua:2053:96983eb4-c8f1-316e-ab00-500014ed3d8b
