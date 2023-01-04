@@ -190,7 +190,7 @@ class SubConvert():
             onenode = json.dumps(node)
             return onenode
         except Exception as ex:
-            LocalFile.write_LogFile('SubConvert-Line-516-Exception:' + str(ex) + '\nonenode:' + onenode + '\noldonenode:' + oldonenode)
+            LocalFile.write_LogFile('SubConvert-Line-193-Exception:' + str(ex) + '\nonenode:' + onenode + '\noldonenode:' + oldonenode)
             return ''
 
     # 不同格式的ss转换为标准格式的ss
