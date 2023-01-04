@@ -7247,3 +7247,8 @@ fuck2.lianpi.xyz:45198:d2bdcf07-41ed-4595-9683-b4280f6b7abd
 jp23.czs1000.com:443:9fd6cd44-3abf-461d-b594-25d3100c9399
 zzjp01.fuqiangren.com:20221:41225578-02c2-4a8b-b7f2-2dd9e7b88631
 de2-1.nrojat.com:443:EJBsFzWnEgXZnmzHq8
+jp2.trojan.tel-01.selfupay.com:443:f736834f-1fc8-4738-9884-9afe0eb0d818
+zzjp01.fuqiangren.com:20220:2220f5d7-a62e-4bc3-b72c-7b7342dd7279
+ty2-7.nrojat.com:443:EJBsFzWnEgXZnmzHq8
+zzjp01.fuqiangren.com:20220:731f1df1-00a9-4011-b545-ad38350e5463
+hgc.iamnotagoodman.com:443:2ac7fc8a-68b5-4809-8bd2-73a593bae292
