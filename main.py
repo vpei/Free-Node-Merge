@@ -196,7 +196,7 @@ if(menu == 'update'):
             onode_upurl = onode['upurl']
             onode_size = onode['size']
         if(nodeurl.find(onode_upurl) == -1):
-            try:
+            try:                
                 onode_upurl = onode_upurl.replace('<yyyy>', datetime.datetime.now().strftime('%Y'))
                 onode_upurl = onode_upurl.replace('<mm>', datetime.datetime.now().strftime('%m'))
                 onode_upurl = onode_upurl.replace('<dd>', datetime.datetime.now().strftime('%d'))
