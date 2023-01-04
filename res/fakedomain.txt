@@ -7239,3 +7239,11 @@ zzjp01.fuqiangren.com:20221:56c45f67-7f70-4ec1-891b-1a9d517c6c41
 20002.purefast2.com:20002:ed3ccb1e-7057-3d40-b794-630ef18fb7d2
 20011.purefast2.com:20011:ed3ccb1e-7057-3d40-b794-630ef18fb7d2
 official.seoulcityhall.com.ua:2053:96983eb4-c8f1-316e-ab00-500014ed3d8b
+tw.tcpbbr.net:443:80bcf4f2-12f7-11ed-bb74-f23c9164ca5d
+gzyd1.52147.top:30120:52a98419-efab-4c34-b4cc-4e2a7bc37029
+dl-hk1.efyunpan.com:443:e2a797dc-e087-49aa-8408-73914838a304
+zzus01.fuqiangren.com:20220:6d2b46cb-4b6e-4dca-9f62-e54157576ecb
+fuck2.lianpi.xyz:45198:d2bdcf07-41ed-4595-9683-b4280f6b7abd
+jp23.czs1000.com:443:9fd6cd44-3abf-461d-b594-25d3100c9399
+zzjp01.fuqiangren.com:20221:41225578-02c2-4a8b-b7f2-2dd9e7b88631
+de2-1.nrojat.com:443:EJBsFzWnEgXZnmzHq8
