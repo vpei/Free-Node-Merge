@@ -44,3 +44,6 @@ cipher:dummy
 
 [2023-01-04 20:30:55] Main-Line-799-allcipher.find(cipher.upper())-j:{"type": "none", "ps": "\ud83c\uddfa\ud83c\uddf8-\u7f8e\u56fd-185.143.234.200", "ws-opts": "", "path": "/ray", "headers": "", "host": "122.zirogame.site", "add": "185.143.234.200", "port": "80", "id": "9803a2ca-eb5a-4a3a-99c0-5e08738b5605", "aid": "0", "scy": "chacha20-poly1305", "net": "ws", "tls": "false"}
 cipher:chacha20-poly1305
+
+[2023-01-04 21:35:09] Main-Line-799-allcipher.find(cipher.upper())-j:ssr://MzcuNTkuMjMzLjEwNzo0NDM6b3JpZ2luOmR1bW15Omh0dHBfc2ltcGxlOmJXVm9jblp3Ymc9PS8/b2Jmc3BhcmFtPSZwcm90b3BhcmFtPSZyZW1hcmtzPTVyT1Y1WnU5WHpFeE1USXdNekEmZ3JvdXA9
+cipher:dummy

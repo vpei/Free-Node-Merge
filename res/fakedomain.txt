@@ -7165,3 +7165,15 @@ oss-cn-guangzhou.westdatacloud.xyz:20002:ABEFE892-7C17-EA82-7F08-335B972920D2
 jp04a.roc-taiwan.net.ua:65014:96983eb4-c8f1-316e-ab00-500014ed3d8b
 20012.purefast2.com:20012:357827e5-a45d-3f09-9b73-ef4431dfb323
 20010.purefast2.com:20010:0989fa4f-7b43-34fd-8f7f-ce06427dce06
+u-s01.beef1917.com:53028:862b6b8a-0a19-45c1-b11a-d100decb5e4b
+lux.iamnotagoodman.com:443:459d23f4-dcfd-4fef-9ba3-ef0ad10fc336
+kh.iamnotagoodman.com:443:459d23f4-dcfd-4fef-9ba3-ef0ad10fc336
+lux.iamnotagoodman.com:443:2ac7fc8a-68b5-4809-8bd2-73a593bae292
+ap.stablize.top:443:8e3fdb7d-401d-42a4-92f2-b12fb805cd0f
+dl-hk3.efyunpan.com:443:708e4341-a239-4c40-baf2-35468913e3e1
+nl1-6.nrojat.com:443:EJBsFzWnEgXZnmzHq8
+uk1-1.nrojat.com:443:EJBsFzWnEgXZnmzHq8
+zzus01.fuqiangren.com:20220:29ce8209-3501-40c3-aa77-afcc0ee3b968
+zzjp01.fuqiangren.com:20221:437c553b-0219-4108-849b-189b42d15eb0
+dl-sg1.efyunpan.com:443:58143779-42ae-4ef7-8cbf-b921196a340d
+51-120-120-29.ipv4.rush.ml:8443:cf4295378e209e70d12c5bdd017144dfd1c772d3
