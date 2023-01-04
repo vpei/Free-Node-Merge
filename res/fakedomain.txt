@@ -7194,3 +7194,16 @@ ar.iamnotagoodman.com:443:cd5795fc-60f2-4553-b23c-24eef6f0ba2a
 de.iamnotagoodman.com:443:b26e31e5-eac1-45b0-9069-83830bd69521
 download2hkt.windowsupdate.lol:443:5d07a7bd-3696-4bc2-ab37-e7082c86f5cb
 hk04.trojanyyds.xyz:443:a6bebbb9-c6bc-42af-9ea2-434a2164a978
+sg.iamnotagoodman.com:443:f8d19ba5-8684-45f2-8523-77dbea588955
+lux.iamnotagoodman.com:443:b2119912-55bb-4e69-a002-b1d2ae75e47e
+dl-hk1.efyunpan.com:443:58143779-42ae-4ef7-8cbf-b921196a340d
+jp.iamnotagoodman.com:443:36d9d131-6319-4758-b4ce-3011f0afc72a
+ussj.iamnotagoodman.com:443:28bccca2-43d2-47f8-bd63-b1361ce7d362
+usa1.csadata4g.me:443:8a678b26-e4c1-4fe0-b0a4-ec36e3f41996
+jp2.trojan.telserver-02.selfupay.com:443:f736834f-1fc8-4738-9884-9afe0eb0d818
+www.tokyo2023.ga:443:4f7dc540-d244-4e64-af21-4b5bb300add3
+jp23.czs1000.com:443:f089315e-c90a-4eb0-8519-78faf5639390
+dl-sg2.efyunpan.com:443:d5d52d46-d2bb-4c34-b992-bbce4966ab28
+hkt.iamnotagoodman.com:443:b26e31e5-eac1-45b0-9069-83830bd69521
+sgt3.sshocean.net:443:d6530eef-8d92-475f-9d28-e1a36ad7f441
+921tw.tfzhc.top:443:eb50af3d-5339-4ef7-8471-6cde8dff1ba9
