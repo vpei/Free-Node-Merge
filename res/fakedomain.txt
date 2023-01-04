@@ -7252,3 +7252,11 @@ zzjp01.fuqiangren.com:20220:2220f5d7-a62e-4bc3-b72c-7b7342dd7279
 ty2-7.nrojat.com:443:EJBsFzWnEgXZnmzHq8
 zzjp01.fuqiangren.com:20220:731f1df1-00a9-4011-b545-ad38350e5463
 hgc.iamnotagoodman.com:443:2ac7fc8a-68b5-4809-8bd2-73a593bae292
+s-g03.beef1917.com:53040:862b6b8a-0a19-45c1-b11a-d100decb5e4b
+lux.iamnotagoodman.com:443:e785e5d2-a05e-486c-8b4f-78b205382b4e
+usla.iamnotagoodman.com:443:e4ae0d84-6162-4620-8cf8-15222d32203e
+usa.stablize.top:443:f84eb1cc-1558-409b-a871-8dfa9563274e
+zzus01.fuqiangren.com:20220:731f1df1-00a9-4011-b545-ad38350e5463
+zzus01.fuqiangren.com:20220:a3a04252-7a59-4b35-9a20-4d64ea61b2bd
+rn.oppo.quest:2077:KQpgOwsK0p
+tgus.oppo.quest:443:DgeP9DobCDNWcJoCAw3UTGRrCDzcsOm1

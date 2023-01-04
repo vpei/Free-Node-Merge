@@ -80,3 +80,12 @@ cipher:dummy
 
 [2023-01-05 04:27:03] Main-Line-799-allcipher.find(cipher.upper())-j:ssr://MzcuNTkuMjMzLjEwNzo0NDM6b3JpZ2luOmR1bW15Omh0dHBfc2ltcGxlOmJXVm9jblp3Ymc9PS8/b2Jmc3BhcmFtPSZwcm90b3BhcmFtPSZyZW1hcmtzPTVyT1Y1WnU5WHpFeU1Ea3dOVFkmZ3JvdXA9VTFOU1VISnZkbWxrWlhJ
 cipher:dummy
+
+[2023-01-05 05:22:56] Main-Line-799-allcipher.find(cipher.upper())-j:ssr://MzcuNTkuMjMzLjEwNzo0NDM6b3JpZ2luOmR1bW15Omh0dHBfc2ltcGxlOmJXVm9jblp3Ymc9PS8/b2Jmc3BhcmFtPSZwcm90b3BhcmFtPSZyZW1hcmtzPTVyT1Y1WnU5WHpFeE1USXdNekEmZ3JvdXA9
+cipher:dummy
+
+[2023-01-05 05:22:58] Main-Line-799-allcipher.find(cipher.upper())-j:ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206WlRReFpEQm1aREkyWWpSak9ERTVPR001WldJell6VTROMkpsTUdRNFpEaz06TVRRM01UZGtaRFF0T0dWbVlpMDBaV1ZpTFRsbU9USXRaV1JpTVRVMlptVT1Ac2cuNTU1MTk5Lnh5ejo0NDM=
+cipher:2022-blake3-aes-256-gcm
+
+[2023-01-05 05:23:01] Main-Line-799-allcipher.find(cipher.upper())-j:ssr://MzcuNTkuMjMzLjEwNzo0NDM6b3JpZ2luOmR1bW15Omh0dHBfc2ltcGxlOmJXVm9jblp3Ymc9PS8/b2Jmc3BhcmFtPSZwcm90b3BhcmFtPSZyZW1hcmtzPTVyT1Y1WnU5WHpFeU1UQXdOVGcmZ3JvdXA9VTFOU1VISnZkbWxrWlhJ
+cipher:dummy
