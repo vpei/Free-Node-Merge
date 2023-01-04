@@ -550,7 +550,7 @@ class SubConvert():
             # onenode = '- ' + onode
 
             # 严格模式3
-            onode = 'name: "' + node['name'] + '"'
+            onode = 'name: \'' + node['name'] + '\''
             onode += ', server: ' + node['server']
             onode += ', port: ' + str(node['port'])
             onode += ', type: vmess'
