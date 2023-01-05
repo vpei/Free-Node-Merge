@@ -7276,3 +7276,11 @@ dl-sg3.efyunpan.com:443:1b763297-bbea-4495-9928-c41cb20f08c8
 hk-server-02.selfupay.com:443:e4307a50-985336ebef7d1b1d6205fd0c55f28800e674
 20009.purefast2.com:20009:d3a422a0-0714-3196-9cc1-4b5f3e48237e
 20010.purefast2.com:20010:a71df8e7-d563-3ebc-a26a-168c8dc8c9f3
+kh.iamnotagoodman.com:443:b26e31e5-eac1-45b0-9069-83830bd69521
+dl-hk4.efyunpan.com:443:412d96f7-9729-4947-bf4b-0084fe41a9d1
+kr.iamnotagoodman.com:443:b26e31e5-eac1-45b0-9069-83830bd69521
+usla.iamnotagoodman.com:443:4f8c0e41-dbdb-40f1-99cb-2c2a0b909b52
+zzus01.fuqiangren.com:20220:145000dd-8c9e-4625-a73e-999847c06b65
+11.earths.team:443:6593b778-e45e-4f94-b5ae-641d4b7b02ae
+zzjp01.fuqiangren.com:20221:560a31f1-eb49-45c7-98f8-5cde959f7bb7
+hgc.iamnotagoodman.com:443:c5809dd1-e1fb-4523-9833-190b09ac7128
