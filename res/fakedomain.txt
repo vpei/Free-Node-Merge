@@ -9348,3 +9348,7 @@ iplc.xiaohouzi.club:20032:263adbfb-49a8-3daf-8a79-2e1687b5dc28
 0xtzcx.20220905.xyz:20511:8c78fdba-4bcd-4f03-8116-7eef6c586e94
 hn.xiaohouzi.club:18431:263adbfb-49a8-3daf-8a79-2e1687b5dc28
 iplc.xiaohouzi.club:20034:263adbfb-49a8-3daf-8a79-2e1687b5dc28
+jp.iamnotagoodman.com:443:459d23f4-dcfd-4fef-9ba3-ef0ad10fc336
+dl-sg1.efyunpan.com:443:c44245e4-be41-48e4-9890-ff47f31396de
+dl-sg2.efyunpan.com:443:e2a797dc-e087-49aa-8408-73914838a304
+hnm.xiaohouzi.club:47555:263adbfb-49a8-3daf-8a79-2e1687b5dc28
