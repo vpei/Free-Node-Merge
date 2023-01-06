@@ -9358,3 +9358,8 @@ hn.xiaohouzi.club:18457:263adbfb-49a8-3daf-8a79-2e1687b5dc28
 zzjp01.fuqiangren.com:20221:e23bcf5d-d5af-4fb7-b03a-b63ba1f6d4bc
 jp.iamnotagoodman.com:443:fab16fff-d149-417c-bdef-4bfcf2333bbe
 uns.xiaohouzi.club:13328:263adbfb-49a8-3daf-8a79-2e1687b5dc28
+jp22.czs1000.com:443:7e711b1f-b4a6-41b2-9da3-ec3b7fe01dfa
+dl-am2.efyunpan.com:443:58143779-42ae-4ef7-8cbf-b921196a340d
+dl-kr1.efyunpan.com:443:e1d0dabc-4d3f-46d5-8498-938a1982fa4d
+tw.xibai6.top:31008:ca2345ba-46e7-3991-b1b7-45d18954caf1
+iplc.xiaohouzi.club:20035:263adbfb-49a8-3daf-8a79-2e1687b5dc28
