@@ -9355,3 +9355,6 @@ hnm.xiaohouzi.club:47555:263adbfb-49a8-3daf-8a79-2e1687b5dc28
 dl-jp2.efyunpan.com:443:c44245e4-be41-48e4-9890-ff47f31396de
 dl-eu1.efyunpan.com:443:58143779-42ae-4ef7-8cbf-b921196a340d
 hn.xiaohouzi.club:18457:263adbfb-49a8-3daf-8a79-2e1687b5dc28
+zzjp01.fuqiangren.com:20221:e23bcf5d-d5af-4fb7-b03a-b63ba1f6d4bc
+jp.iamnotagoodman.com:443:fab16fff-d149-417c-bdef-4bfcf2333bbe
+uns.xiaohouzi.club:13328:263adbfb-49a8-3daf-8a79-2e1687b5dc28
