@@ -9328,3 +9328,11 @@ dl-eu2.efyunpan.com:443:18f918bd-35a8-4199-ae61-1ea59863b7e9
 dl-sg4.efyunpan.com:443:e2a797dc-e087-49aa-8408-73914838a304
 20002.purefast2.com:20002:357827e5-a45d-3f09-9b73-ef4431dfb323
 20005.purefast2.com:20005:357827e5-a45d-3f09-9b73-ef4431dfb323
+dl-hk1.efyunpan.com:443:a34b4807-bc03-4323-9c05-deafdf6816e0
+download2hkt.windowsupdate.lol:443:af4d2493-9156-4514-9f6b-ee5d1a1e4713
+frt2.sshocean.net:443:b3902e81-6260-4932-bcc9-708445fe40b4
+ocrb1.happyfree.top:443:6578df36-8b6f-4411-b42a-521877145573
+dl-us3.efyunpan.com:443:1861be23-5020-467f-81f8-4de2f53b2745
+dl-us4.efyunpan.com:443:a34b4807-bc03-4323-9c05-deafdf6816e0
+oss-cn-shanghai.westdatacloud.xyz:20037:9133E678-F6F2-CDAC-2A45-7D0AB58AEC41
+hn.xiaohouzi.club:18460:263adbfb-49a8-3daf-8a79-2e1687b5dc28
