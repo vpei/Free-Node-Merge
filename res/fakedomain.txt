@@ -9370,3 +9370,4 @@ mn.mjt001.com:443:459d23f4-dcfd-4fef-9ba3-ef0ad10fc336
 hk05.trojanyyds.xyz:443:cd41b9d7-df15-46ad-a778-257b0851525a
 core1.efyunpan.com:443:1b763297-bbea-4495-9928-c41cb20f08c8
 dl-us2.efyunpan.com:443:1b763297-bbea-4495-9928-c41cb20f08c8
+de.mjt001.com:443:12c20b94-63c6-4348-9681-79f68d93e14b
