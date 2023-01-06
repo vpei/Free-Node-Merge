@@ -9375,3 +9375,5 @@ jp1.535eb521-9fe0-4478-b090-2a5cee4bb04a.191981000.xyz:443:e40ba521-c5e9-4e05-87
 dl-us4.efyunpan.com:443:18f918bd-35a8-4199-ae61-1ea59863b7e9
 dl-sg3.efyunpan.com:443:a34b4807-bc03-4323-9c05-deafdf6816e0
 dl-sg4.efyunpan.com:443:18f918bd-35a8-4199-ae61-1ea59863b7e9
+ru01.trojanyyds.xyz:443:afee60fc-f88b-4a20-b85b-8f63296e7ac0
+gzbgp01.00991169.xyz:14961:137F5942-D5A4-4F57-3A7D-9CD16DB6CB6C
