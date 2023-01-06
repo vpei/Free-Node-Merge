@@ -9283,3 +9283,13 @@ dl-sg3.efyunpan.com:443:e2a797dc-e087-49aa-8408-73914838a304
 oss-cn-shanghai.westdatacloud.xyz:20036:9133E678-F6F2-CDAC-2A45-7D0AB58AEC41
 jp-f-a.ccks.top:20503:8c78fdba-4bcd-4f03-8116-7eef6c586e94
 iplc.xiaohouzi.club:20037:263adbfb-49a8-3daf-8a79-2e1687b5dc28
+dl-hk2.efyunpan.com:443:f538f5ce-3fb4-4769-886f-442e810f591a
+ar.iamnotagoodman.com:443:b26e31e5-eac1-45b0-9069-83830bd69521
+dl-hk3.efyunpan.com:443:1b763297-bbea-4495-9928-c41cb20f08c8
+dl-tw2.efyunpan.com:443:f95aea21-d754-4f1c-b552-f23815db88bb
+zzus01.fuqiangren.com:20220:b4fb4800-862e-48da-90be-e2ddaafb7771
+14.earths.team:443:6593b778-e45e-4f94-b5ae-641d4b7b02ae
+dl-sg3.efyunpan.com:443:e1d0dabc-4d3f-46d5-8498-938a1982fa4d
+dl-eu1.efyunpan.com:443:e1d0dabc-4d3f-46d5-8498-938a1982fa4d
+dl-sg1.efyunpan.com:443:a34b4807-bc03-4323-9c05-deafdf6816e0
+jump.bungeejumpingistanbul.com:443:1672752854
