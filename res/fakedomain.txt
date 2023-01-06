@@ -9367,3 +9367,6 @@ content-provider21.cdn-delivery.akamaicd.com:443:shefelnak
 jp22.czs1000.com:443:d81c1975-3500-4dce-a12f-c90b5b1b5854
 hn.xiaohouzi.club:28456:263adbfb-49a8-3daf-8a79-2e1687b5dc28
 mn.mjt001.com:443:459d23f4-dcfd-4fef-9ba3-ef0ad10fc336
+hk05.trojanyyds.xyz:443:cd41b9d7-df15-46ad-a778-257b0851525a
+core1.efyunpan.com:443:1b763297-bbea-4495-9928-c41cb20f08c8
+dl-us2.efyunpan.com:443:1b763297-bbea-4495-9928-c41cb20f08c8
