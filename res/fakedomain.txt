@@ -9383,3 +9383,4 @@ singapore1.csadata4g.me:443:8a678b26-e4c1-4fe0-b0a4-ec36e3f41996
 hk03.trojanyyds.xyz:443:a6bebbb9-c6bc-42af-9ea2-434a2164a978
 core1.efyunpan.com:443:18f918bd-35a8-4199-ae61-1ea59863b7e9
 kr.iamnotagoodman.com:443:fab16fff-d149-417c-bdef-4bfcf2333bbe
+hnm.xiaohouzi.club:17105:263adbfb-49a8-3daf-8a79-2e1687b5dc28
