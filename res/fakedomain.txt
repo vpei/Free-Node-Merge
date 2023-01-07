@@ -9386,3 +9386,6 @@ kr.iamnotagoodman.com:443:fab16fff-d149-417c-bdef-4bfcf2333bbe
 hnm.xiaohouzi.club:17105:263adbfb-49a8-3daf-8a79-2e1687b5dc28
 jp1.sanfen001.pics:443:b7d2a97b-ab6e-438d-922d-b541b5ff0722
 download1hkt.windowsupdate.lol:443:f679299a-e38a-4a93-ab2d-ac34bbeffdd1
+ru.mjt001.com:443:12c20b94-63c6-4348-9681-79f68d93e14b
+hgc.iamnotagoodman.com:443:f828c5db-daa0-470f-86ab-f4a9ebdb272c
+v2-id13.ccks.top:20803:8c78fdba-4bcd-4f03-8116-7eef6c586e94
