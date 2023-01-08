@@ -9406,3 +9406,7 @@ dl-tw1.efyunpan.com:443:b42c2c42-b8ef-4cbe-8443-8870cf10875a
 zzus01.fuqiangren.com:20220:31ac584e-4676-446c-8b38-8f93685561db
 dl-jp1.efyunpan.com:443:b42c2c42-b8ef-4cbe-8443-8870cf10875a
 dl-us3.efyunpan.com:443:b42c2c42-b8ef-4cbe-8443-8870cf10875a
+bacmlwrkoph.559xp5.cn:443:b163c841-5acb-4bd5-838a-3c745685e3b2
+dl-jp1.efyunpan.com:443:18f918bd-35a8-4199-ae61-1ea59863b7e9
+dl-tw4.efyunpan.com:443:b42c2c42-b8ef-4cbe-8443-8870cf10875a
+20013.purefast2.com:20013:357827e5-a45d-3f09-9b73-ef4431dfb323
