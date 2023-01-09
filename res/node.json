@@ -48,9 +48,9 @@
 {"uptime": "2023-01-10 00:25:59", "type": "clash", "upmd5": "c8b7ec5e62097be4a829e7838529f62f", "upurl": "https://proxy.huwo.club/clash.yaml", "size": 6102}
 {"uptime": "2023-01-10 00:26:00", "type": "mixed", "upmd5": "55c4f408efb71411bdc369c6ac345b4c", "upurl": "https://raw.githubusercontent.com/freefq/free/master/v2", "size": 16468}
 {"uptime": "2023-01-10 00:26:02", "type": "clash", "upmd5": "971a7fc68d993b5b4fc3f23c2802b0f9", "upurl": "https://sub.go4sharing.repl.co/sub.yaml", "size": 393259}
-{"uptime": "2023-01-10 01:16:05", "type": "clash", "upmd5": "9a2d48a1a4fb5de9e1e3afe838dc2c4e", "upurl": "https://raw.githubusercontent.com/learnhard-cn/free_proxy_ss/main/clash/clash.provider.yaml", "size": 2515}
-{"uptime": "2023-01-10 01:16:06", "type": "clash", "upmd5": "f563f664a60971a9e234c81cb830abce", "upurl": "http://www.linbaoz.com/clash/proxies", "size": 15656}
-{"uptime": "2023-01-10 01:16:06", "type": "mixed", "upmd5": "597990c276a17ee0439cdf029bcce87e", "upurl": "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub", "size": 2576}
+{"uptime": "2023-01-10 02:17:50", "type": "clash", "upmd5": "153f6c44b7bea60ac4939175d18048e3", "upurl": "https://raw.githubusercontent.com/learnhard-cn/free_proxy_ss/main/clash/clash.provider.yaml", "size": 1513}
+{"uptime": "2023-01-10 02:17:51", "type": "clash", "upmd5": "3c56e07562525796de0a56e56675dc27", "upurl": "http://www.linbaoz.com/clash/proxies", "size": 488}
+{"uptime": "2023-01-10 02:17:51", "type": "mixed", "upmd5": "cf333eb4636940383d93c94333c69f32", "upurl": "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub", "size": 2728}
 {"uptime": "2023-12-03 20:09:57", "type": "clash", "upmd5": "737b7816ca595d3afee9e703d30765db", "upurl": "http://122.225.207.101:8080/ipns/k2k4r8kms1l1k3wljk4o8eopnb2dltfvh8pypr0zkeyjunyagft3aqvs/vip.yaml", "size": 75475}
 {"uptime": "2023-12-03 22:14:46", "type": "mixed", "upmd5": "6300191dfe70c6b60b2c3da62f7340ca", "upurl": "http://122.225.207.101:8080/ipns/k2k4r8kms1l1k3wljk4o8eopnb2dltfvh8pypr0zkeyjunyagft3aqvs/vpn.txt", "size": 79460}
 {"uptime": "2024-01-09 00:21:07", "type": "mixed", "upmd5": "707c90c179c18c37285649617fc3c80d", "upurl": "http://122.225.207.101:8080/ipns/k2k4r8kms1l1k3wljk4o8eopnb2dltfvh8pypr0zkeyjunyagft3aqvs/index.html", "size": 95684}
