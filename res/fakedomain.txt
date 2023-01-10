@@ -10438,3 +10438,4 @@ nl1.trojan-lite.com:443:bs6KJkPBW9MP74uHEa
 s23.mynameismahsa.info:2053:user
 uk.mjt001.com:443:5a035db3-34ea-48ca-9aa2-72c8229e1532
 s25.mynameismahsa.info:2053:user
+jp22.baf1.sbs:443:85877700-6bb3-4fad-921a-7d5fe3f52176
