@@ -10434,3 +10434,5 @@ dl-hk3.efyunpan.com:443:8970c934-9dbf-4481-ae3a-78967e5b68af
 zzjp01.fuqiangren.com:20221:7d6b1e01-d45a-46eb-aa09-9dd29c2c93c0
 tr.gov.goumaituijian.xyz:59888:32b14383-7f68-4978-9c16-ae5a721bbbce
 nl5.trojan-lite.com:443:bs6KJkPBW9MP74uHEa
+nl1.trojan-lite.com:443:bs6KJkPBW9MP74uHEa
+s23.mynameismahsa.info:2053:user
