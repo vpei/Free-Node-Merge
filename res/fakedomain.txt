@@ -10436,3 +10436,5 @@ tr.gov.goumaituijian.xyz:59888:32b14383-7f68-4978-9c16-ae5a721bbbce
 nl5.trojan-lite.com:443:bs6KJkPBW9MP74uHEa
 nl1.trojan-lite.com:443:bs6KJkPBW9MP74uHEa
 s23.mynameismahsa.info:2053:user
+uk.mjt001.com:443:5a035db3-34ea-48ca-9aa2-72c8229e1532
+s25.mynameismahsa.info:2053:user
