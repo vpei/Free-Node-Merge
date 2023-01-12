@@ -905,3 +905,12 @@ cipher:dummy
 
 [2023-01-12 19:23:41] Main-Line-799-allcipher.find(cipher.upper())-j:ssr://MzguMTQzLjAuMTQ0OjM0MDAwOmF1dGhfY2hhaW5fYjpkdW1teTpwbGFpbjpZV0ZpWW1OalpHUmxaUT09Lz9vYmZzcGFyYW09JnByb3RvcGFyYW09JnJlbWFya3M9TXpndU1UUXpMakF1TVRRMA==vmess://eyJ2IjogIjIiLCAicHMiOiAiZ2l0aHViLmNvbS9QYXdkcm9pZCAtIFx1NGUyZFx1NTZmZFx1OTYzZlx1OTFjY1x1NGU5MSAyMSIsICJhZGQiOiAiOC4yMDkuODAuMjMxIiwgInBvcnQiOiAiODAiLCAidHlwZSI6ICJub25lIiwgImlkIjogIjBmMWYxY2NhLTU2ZGMtNGZlYi04YjRiLTUwYWIwNzRmNDQ2NyIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvP2VkPTIwNDgiLCAiaG9zdCI6ICJ3MS44MDA4NzYueHl6IiwgInRscyI6ICIifQ==
 cipher:dummy
+
+[2023-01-12 20:29:33] Main-Line-799-allcipher.find(cipher.upper())-j:ssr://MzcuNTkuMjMzLjEwNzo0NDM6b3JpZ2luOmR1bW15Omh0dHBfc2ltcGxlOmJXVm9jblp3Ymc9PS8/b2Jmc3BhcmFtPSZwcm90b3BhcmFtPSZyZW1hcmtzPTVyT1Y1WnU5WHpFeE1USXdNekEmZ3JvdXA9
+cipher:dummy
+
+[2023-01-12 20:29:34] Main-Line-799-allcipher.find(cipher.upper())-j:ssr://MzcuNTkuMjMzLjEwNzo0NDM6b3JpZ2luOmR1bW15Omh0dHBfc2ltcGxlOmJXVm9jblp3Ymc9PS8/b2Jmc3BhcmFtPSZwcm90b3BhcmFtPSZyZW1hcmtzPTVyT1Y1WnU5WHpBeE1EWXhPVGcmZ3JvdXA9VTFOU1VISnZkbWxrWlhJ
+cipher:dummy
+
+[2023-01-12 20:29:55] Main-Line-799-allcipher.find(cipher.upper())-j:ssr://MzcuNTkuMjMzLjEwNzo0NDM6b3JpZ2luOmR1bW15Omh0dHBfc2ltcGxlOmJXVm9jblp3Ymc9PS8/b2Jmc3BhcmFtPSZwcm90b3BhcmFtPSZyZW1hcmtzPTVyT1Y1WnU5WHpFeE1qSXdNelkmZ3JvdXA9
+cipher:dummy
