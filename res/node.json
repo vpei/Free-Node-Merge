@@ -36,7 +36,6 @@
 {"uptime": "2023-01-12 10:17:18", "type": "mixed", "upmd5": "b46a4a3d781c20b19652766677625c7e", "upurl": "https://clashnode.com/wp-content/uploads/<yyyy>/<mm>/<yyyy><mm><dd>.txt", "size": 14380}
 {"uptime": "2023-01-12 10:17:22", "type": "mixed", "upmd5": "d664c78da4062977f103602207dda87d", "upurl": "https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/list_raw.txt", "size": 68496}
 {"uptime": "2023-01-12 10:17:24", "type": "mixed", "upmd5": "6cfc9d99767486b02da7f5561cd11aca", "upurl": "https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/list.txt", "size": 91332}
-{"uptime": "2023-01-12 15:14:44", "type": "clash", "upmd5": "e5a5181a4ae766c9e9a2f73c4b173e39", "upurl": "https://raw.githubusercontent.com/anaer/Sub/main/clash.yaml", "size": 392942}
 {"uptime": "2023-01-12 12:17:41", "type": "mixed", "upmd5": "5b0f9ecffeb0bec7fd60dc695dcfd43b", "upurl": "https://raw.githubusercontent.com/Leon406/SubCrawler/main/sub/share/all", "size": 4598356}
 {"uptime": "2023-01-12 12:19:56", "type": "mixed", "upmd5": "960e867a59ea95bc1d57635f9300bbe2", "upurl": "https://raw.githubusercontent.com/Leon406/SubCrawler/main/sub/share/available", "size": 3456117}
 {"uptime": "2023-01-12 12:20:15", "type": "mixed", "upmd5": "192490f657929ba4a473b57910fefaba", "upurl": "https://raw.githubusercontent.com/Leon406/SubCrawler/main/sub/share/v2", "size": 3963396}
@@ -47,10 +46,11 @@
 {"uptime": "2023-01-12 12:20:36", "type": "clash", "upmd5": "a89c15a9f963f6030907e1c86ce8ec2e", "upurl": "https://raw.githubusercontent.com/Rokate/Proxy-Sub/main/clash/clash_v2ray.yml", "size": 68655}
 {"uptime": "2023-01-12 12:20:37", "type": "clash", "upmd5": "303a0097f8871a506585a6e671c5d12e", "upurl": "https://raw.githubusercontent.com/Rokate/Proxy-Sub/main/clash/clash_ssr.yml", "size": 65748}
 {"uptime": "2023-01-12 12:20:39", "type": "clash", "upmd5": "07a1145d5fdbbce1ac84871efc0454a6", "upurl": "https://sub.go4sharing.repl.co/sub.yaml", "size": 431603}
-{"uptime": "2023-01-12 12:20:48", "type": "mixed", "upmd5": "f179f1e71571401436a6897dcb36f88c", "upurl": "https://raw.githubusercontent.com/freefq/free/master/v2", "size": 16080}
-{"uptime": "2023-01-12 15:14:52", "type": "clash", "upmd5": "8bbe7c970b33993c0ded1b240cf300bc", "upurl": "https://raw.githubusercontent.com/learnhard-cn/free_proxy_ss/main/clash/clash.provider.yaml", "size": 6100}
-{"uptime": "2023-01-12 15:14:53", "type": "clash", "upmd5": "aa15bd5a7884ad916c3c5f2ae88a5e97", "upurl": "http://www.linbaoz.com/clash/proxies", "size": 15644}
-{"uptime": "2023-01-12 15:14:53", "type": "mixed", "upmd5": "4acc1648bbc70a753e33b7f84bd5a8da", "upurl": "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub", "size": 2600}
+{"uptime": "2023-01-12 16:18:28", "type": "mixed", "upmd5": "1d6d7b1d5756376340744119ee823e1c", "upurl": "https://raw.githubusercontent.com/freefq/free/master/v2", "size": 25924}
+{"uptime": "2023-01-12 15:14:44", "type": "clash", "upmd5": "e5a5181a4ae766c9e9a2f73c4b173e39", "upurl": "https://raw.githubusercontent.com/anaer/Sub/main/clash.yaml", "size": 392942}
+{"uptime": "2023-01-12 16:18:28", "type": "clash", "upmd5": "7339b429e929edfe4bb557b487603962", "upurl": "https://raw.githubusercontent.com/learnhard-cn/free_proxy_ss/main/clash/clash.provider.yaml", "size": 6001}
+{"uptime": "2023-01-12 16:18:29", "type": "clash", "upmd5": "7ab541840239b36707525aab1a2f64b6", "upurl": "http://www.linbaoz.com/clash/proxies", "size": 15658}
+{"uptime": "2023-01-12 16:18:29", "type": "mixed", "upmd5": "c0b96c382a38dfaa0f152b3c6d8c20a7", "upurl": "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub", "size": 2576}
 {"uptime": "2023-12-03 20:09:57", "type": "clash", "upmd5": "737b7816ca595d3afee9e703d30765db", "upurl": "http://122.225.207.101:8080/ipns/k2k4r8kms1l1k3wljk4o8eopnb2dltfvh8pypr0zkeyjunyagft3aqvs/vip.yaml", "size": 75475}
 {"uptime": "2023-12-03 22:14:46", "type": "mixed", "upmd5": "6300191dfe70c6b60b2c3da62f7340ca", "upurl": "http://122.225.207.101:8080/ipns/k2k4r8kms1l1k3wljk4o8eopnb2dltfvh8pypr0zkeyjunyagft3aqvs/vpn.txt", "size": 79460}
 {"uptime": "2024-01-09 00:21:07", "type": "mixed", "upmd5": "707c90c179c18c37285649617fc3c80d", "upurl": "http://122.225.207.101:8080/ipns/k2k4r8kms1l1k3wljk4o8eopnb2dltfvh8pypr0zkeyjunyagft3aqvs/index.html", "size": 95684}
